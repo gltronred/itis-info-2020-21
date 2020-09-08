@@ -39,5 +39,23 @@ public class L1 {
         b = sc.nextInt();
         double d = sc.nextDouble(); // NB. Разделитель зависит от локали! (например, `1,2`)
         System.out.println(a + b);
+
+        // Условные операторы:
+        // if ("условие") {
+        //   действия, если истинно
+        // } else {
+        //   действия, если ложно
+        // }
+
+        // <
+        // >
+        // == равенство
+        // != неравенство
+        if (a + b < 4) {
+                c = a + b;
+                System.out.println("YES");
+        } else {
+                System.out.println("NO");
+        }
     }
 }
