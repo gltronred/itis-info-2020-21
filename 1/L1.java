@@ -1,4 +1,6 @@
-
+// Следующие две строки - для использования Scanner
+import java.io.*;
+import java.util.*;
 
 public class L1 {
     public static void main(String[] args) {
@@ -26,5 +28,15 @@ public class L1 {
         double f = 1.5;
         f = c;
         System.out.println(f);
+
+        // Ввод с клавиатуры
+        //
+        // вспомогательное объявление, делается один раз
+        Scanner sc = new Scanner(System.in);
+        // дальше можно использовать sc.nextInt()
+        // переменные a и b уже объявлены
+        a = sc.nextInt();
+        b = sc.nextInt();
+        System.out.println(a + b);
     }
 }
