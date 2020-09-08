@@ -37,6 +37,7 @@ public class L1 {
         // переменные a и b уже объявлены
         a = sc.nextInt();
         b = sc.nextInt();
+        double d = sc.nextDouble(); // NB. Разделитель зависит от локали! (например, `1,2`)
         System.out.println(a + b);
     }
 }
