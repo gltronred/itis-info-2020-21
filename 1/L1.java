@@ -57,7 +57,10 @@ public class L1 {
         // || - или
         // !  - не
         if (a + b < 4) {
+                // Переменная видна только внутри блока
+                int g = 1;
                 c = a + b;
+                System.out.println(g);
                 System.out.println("YES");
         } else {
                 System.out.println("NO");
