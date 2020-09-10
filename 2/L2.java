@@ -43,6 +43,18 @@ public class L2 {
         } while (x != 1);
         System.out.println("");
 
-
+        // Проверка на простоту
+        x = sc.nextInt();
+        int k = 0;
+        for (int i=1; i*i<=x; i++) {
+            if (x % i == 0) {
+                k++;
+            }
+        }
+        if (k == 1 && x != 1) {
+            System.out.println("YES");
+        } else {
+            System.out.println("NO");
+        }
     }
 }
