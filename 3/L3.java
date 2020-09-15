@@ -10,9 +10,8 @@ public class L3 {
         boolean f = true;
         int a = 2;
         while (a < n) {
-            if (n % a == 0) {
-                f = false;
-            }
+            // f = f && (n % a != 0); // обновили f
+            f &= (n % a != 0);
             a++;
         }
 
