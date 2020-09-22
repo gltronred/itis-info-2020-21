@@ -1,5 +1,11 @@
 # Мартазова
-- 567891011: NA
+- [5: AC](5.md)
+- [6: AC](6.md)
+- [7: AC](7.md)
+- [8: AC](8.md)
+- [9: AC](9.md)
+- [10: NA](10.md)
+- [11: NA](11.md)
 
 Commit: ec1fa9bb824a5456542ef3cecc1cf8d2176c1b88
- fetched at: 20200922-201751
+ fetched at: 20200922-202640
