@@ -1,9 +1,9 @@
 # Хусаенов
-- [5: WA 01](5.md)
-- [6: WA 01](6.md)
-- [7: NA](7.md)
-- [8: CE](8.md)
-- [9: WA 01](9.md)
+- 5: NA
+- 6: NA
+- 7: NA
+- 8: NA
+- 9: NA
 
-Commit: 26f318926a8441e814cc2330c3a644ce67916402
- fetched at: 20200922-115813
+Commit: 8c68d0fcb8d3b7d680ed2467a4b652de01a3b3fb
+ fetched at: 20200922-152652

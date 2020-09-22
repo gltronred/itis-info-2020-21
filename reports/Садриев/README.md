@@ -1,9 +1,9 @@
 # Садриев
-- [5: AC](5.md)
-- [6: AC](6.md)
-- [7: NA](7.md)
-- [8: NA](8.md)
-- [9: NA](9.md)
+- 5: NA
+- 6: NA
+- 7: NA
+- 8: NA
+- 9: NA
 
 Commit: 03a75bd7d9633a0461f32b451d382a09dc2de7ce
- fetched at: 20200922-115711
+ fetched at: 20200922-152634
