@@ -2,10 +2,10 @@
 - [5: CE](5.md)
 - [6: AC](6.md)
 - [7: AC](7.md)
-- [8: NA](8.md)
+- [8: AC](8.md)
 - [9: NA](9.md)
 - [10: NA](10.md)
 - [11: NA](11.md)
 
-Commit: 9fc022a6addb83df5ec512e89b11ac955d2544b5
- fetched at: 20200922-214453
+Commit: 4cd3c1592863566ee7279c5b8bda4a1f687a0319
+ fetched at: 20200922-220601
