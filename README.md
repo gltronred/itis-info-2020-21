@@ -26,3 +26,4 @@
 
 - [Задания](problems.md)
 - [Результаты проверки](https://docs.google.com/spreadsheets/d/14SiAj-dGa9dukhVoTJdNDuIuMIGym7aejI0vQ01DuhE/edit#gid=0) (на данный момент обновляются вручную)
+- [Логи проверки](reports/README.md)
