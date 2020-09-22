@@ -1,9 +1,9 @@
 # Юмадилова
-- 5: NA
-- 6: NA
-- 7: NA
-- 8: NA
-- 9: NA
+- [5: WA 01](5.md)
+- [6: AC](6.md)
+- [7: AC](7.md)
+- [8: NA](8.md)
+- [9: NA](9.md)
 
 Commit: 0eab24a2ce7a6d433c34e6587edcd5cb327e3834
  fetched at: 20200922-152658
