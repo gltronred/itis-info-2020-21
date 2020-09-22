@@ -1,6 +1,4 @@
 # Белесова
-- [5: AC](5.md)
-- [6: AC](6.md)
 - [7: AC](7.md)
 - [8: AC](8.md)
 - [9: AC](9.md)
@@ -8,4 +6,4 @@
 - [11: AC](11.md)
 
 Commit: beaf017dbaae3aff3d9391cf72357dc607c2ab17
- fetched at: 20200922-230327
+ fetched at: 20200923-000933

@@ -1,11 +1,9 @@
 # Асадуллин
-- [5: AC](5.md)
-- [6: AC](6.md)
 - [7: AC](7.md)
 - [8: AC](8.md)
 - [9: AC](9.md)
-- [10: NA](10.md)
+- [10: AC](10.md)
 - [11: NA](11.md)
 
-Commit: 49784dbd693ebe6d85b2e8609798f3b07e990186
- fetched at: 20200922-230314
+Commit: 1301ab570aee9805a4a081c0f86d61213e835e0d
+ fetched at: 20200923-000916
