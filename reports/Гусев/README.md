@@ -4,8 +4,8 @@
 - [7: AC](7.md)
 - [8: AC](8.md)
 - [9: AC](9.md)
-- [10: NA](10.md)
-- [11: NA](11.md)
+- [10: AC](10.md)
+- [11: AC](11.md)
 
-Commit: 32e87ca3470391c5aac34c07a34c79415217d605
- fetched at: 20200922-220351
+Commit: 582a020dfc024bd15090234dbbbc488fd5b51c75
+ fetched at: 20200922-230352
