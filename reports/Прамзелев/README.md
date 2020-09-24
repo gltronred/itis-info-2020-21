@@ -1,9 +1,9 @@
 # Прамзелев
-- [7: WA 01](7.md)
+- [7: AC](7.md)
 - [8: NA](8.md)
 - [9: NA](9.md)
 - [10: NA](10.md)
 - [11: NA](11.md)
 
-Commit: b233fdefba2fa9d368439cdcddd4c21b7f16266b
- fetched at: 20200924-200940
+Commit: e350098d9b54f627027db9a80f2db1922f6bd730
+ fetched at: 20200924-210942
