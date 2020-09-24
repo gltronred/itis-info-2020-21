@@ -1,9 +1,9 @@
 # Галеева
 - [7: AC](7.md)
-- [8: NA](8.md)
-- [9: NA](9.md)
+- [8: AC](8.md)
+- [9: WA 01](9.md)
 - [10: NA](10.md)
 - [11: NA](11.md)
 
-Commit: 79e30850d5212dbb49ad46347b751df78bd72ca8
- fetched at: 20200924-100915
+Commit: 0dc4e75c736e87deec72635fbe7e95089f56471b
+ fetched at: 20200924-110915
