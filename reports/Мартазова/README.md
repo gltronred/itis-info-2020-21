@@ -1,8 +1,8 @@
 # Мартазова
-- [10: NA](10.md)
+- [10: AC](10.md)
 - [11: NA](11.md)
 - [12: NA](12.md)
 - [13: NA](13.md)
 
-Commit: ec1fa9bb824a5456542ef3cecc1cf8d2176c1b88
- fetched at: 20200925-200933
+Commit: 8225d36602fcbad97b8cc5a16b81e99a600b88bc
+ fetched at: 20200925-210934
