@@ -1,23 +1,8 @@
 # Нурисламова
-- [12: NA](12.md)
-- [12: NA](12.md)
-- [12: NA](12.md)
 - [10: NA](10.md)
 - [11: NA](11.md)
-- [13: NA](13.md)
-- [13: NA](13.md)
-- [13: NA](13.md)
-
-
-
-Commit: 14d0469f6d729035c373ee509922324c1963fddc
-Commit: 14d0469f6d729035c373ee509922324c1963fddc
-Commit: 14d0469f6d729035c373ee509922324c1963fddc
- fetched at: 20200926-111804
- fetched at: 20200926-111804
 - [12: NA](12.md)
- fetched at: 20200926-111804
 - [13: NA](13.md)
 
 Commit: 14d0469f6d729035c373ee509922324c1963fddc
- fetched at: 20200926-111804
+ fetched at: 20200926-120904
