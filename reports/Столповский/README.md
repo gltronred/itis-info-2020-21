@@ -1,8 +1,8 @@
 # Столповский
 - [10: AC](10.md)
 - [11: AC](11.md)
-- [12: NA](12.md)
-- [13: NA](13.md)
+- [12: AC](12.md)
+- [13: AC](13.md)
 
-Commit: 4bce89212997cc788b8c48a3df4a22f675890e7d
- fetched at: 20200927-181010
+Commit: 324c87a9c45bd20232e56ba331d4b2ff55be08ed
+ fetched at: 20200927-191010
