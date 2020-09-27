@@ -1,8 +1,8 @@
 # Мухаев
-- [10: NA](10.md)
+- [10: AC](10.md)
 - [11: NA](11.md)
 - [12: NA](12.md)
 - [13: NA](13.md)
 
-Commit: d0e37eabf8a4fdf70eee8f5fe560cfe5e07ff5e4
- fetched at: 20200927-210954
+Commit: ce3a9d3dcb23d9d8e3ab4185fa8387b3c34841cf
+ fetched at: 20200927-221414
