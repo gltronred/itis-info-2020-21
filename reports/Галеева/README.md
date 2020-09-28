@@ -1,8 +1,8 @@
 # Галеева
-- [10: NA](10.md)
+- [10: AC](10.md)
 - [11: NA](11.md)
 - [12: NA](12.md)
 - [13: NA](13.md)
 
-Commit: 4458c0a3fca989e2d43ada496a6cd5be23cbd5d5
- fetched at: 20200928-210954
+Commit: a59b93702222515d87c605cdcbee544a9298c5cb
+ fetched at: 20200928-220953
