@@ -1,8 +1,8 @@
 # Райманова
-- [10: NA](10.md)
-- [11: NA](11.md)
+- [10: AC](10.md)
+- [11: AC](11.md)
 - [12: NA](12.md)
 - [13: NA](13.md)
 
-Commit: f956dde98d92d23f2c02348368777e5926fc6ef1
- fetched at: 20200928-120947
+Commit: 965e3cb25a3e9e36a05fe96cd1b4c29dc8d9f2bb
+ fetched at: 20200928-130955
