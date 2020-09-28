@@ -1,8 +1,8 @@
 # Хасанова
 - [10: AC](10.md)
-- [11: NA](11.md)
+- [11: AC](11.md)
 - [12: NA](12.md)
 - [13: NA](13.md)
 
-Commit: 5e9f545c28ed65fa6e627b747c7cd40d91ba7b3e
- fetched at: 20200928-181300
+Commit: 215058c0ec1cd6f6e5cad1cf796ce05d7d8475f0
+ fetched at: 20200928-191235
