@@ -1,8 +1,8 @@
 # Асфандьяров
-- [10: CE](10.md)
-- [11: NA](11.md)
+- [10: AC](10.md)
+- [11: WA 003](11.md)
 - [12: NA](12.md)
 - [13: NA](13.md)
 
-Commit: 8ce2aaa4aea80b6a2f59463af40274a6b0211428
- fetched at: 20200928-190935
+Commit: cac792ffcc360eb22ed6a0d2b9147a5de3837fcf
+ fetched at: 20200928-200956
