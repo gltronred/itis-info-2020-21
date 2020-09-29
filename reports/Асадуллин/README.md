@@ -1,5 +1,5 @@
 # Асадуллин
-- [7: WA 9](7.md)
+- [7: AC](7.md)
 - [8: AC](8.md)
 - [9: AC](9.md)
 - [10: AC](10.md)
@@ -9,5 +9,5 @@
 - [14: NA](14.md)
 - [15: NA](15.md)
 
-Commit: 40215d5b86a81a18504b0f312b3343c7a7a3e1df
- fetched at: 20200929-210306
+Commit: a6683855c492fda3c9063750adf1a7fc86ef544b
+ fetched at: 20200929-220322
