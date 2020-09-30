@@ -2,7 +2,7 @@
 - [12: AC](12.md)
 - [13: AC](13.md)
 - [14: AC](14.md)
-- [15: NA](15.md)
+- [15: AC](15.md)
 
-Commit: 4ad86b9f6bd2c67087f6454b677b27a466de26fd
- fetched at: 20200930-220411
+Commit: f355c5f01db84d584b78ada91a2e83a1546b6aa0
+ fetched at: 20200930-230412
