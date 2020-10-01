@@ -1,8 +1,8 @@
 # Райманова
 - [12: AC](12.md)
-- [13: WA 03](13.md)
+- [13: AC](13.md)
 - [14: NA](14.md)
 - [15: NA](15.md)
 
-Commit: 47aa82bdcbc0dc6b0a89d3fbde076ff003af6058
- fetched at: 20201001-120619
+Commit: 3b75af4cb761ae2218241826953f9d06019886ad
+ fetched at: 20201001-130513
