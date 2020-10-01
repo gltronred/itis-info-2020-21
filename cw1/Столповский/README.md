@@ -1,7 +1,7 @@
 # Столповский
 - [1: RE 01](1.md)
-- [2: WA 01](2.md)
+- [2: RE 01](2.md)
 - [3: WA 01](3.md)
 
-Commit: 873a90e1078f4ee9348384e1fa843de024bddd02
- fetched at: 20201001-124456
+Commit: 90db8eab8746809ca859a82acb02d6804c3168ec
+ fetched at: 20201001-124725
