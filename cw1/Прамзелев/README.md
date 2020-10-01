@@ -1,7 +1,7 @@
 # Прамзелев
-- [1: WA 01](1.md)
+- [1: RE 01](1.md)
 - [2: WA 01](2.md)
-- [3: WA 01](3.md)
+- [3: AC](3.md)
 
-Commit: 7ff5d118ebc8efb1cf8888b21b3985633037cfbd
- fetched at: 20201001-124705
+Commit: 193b490c03dc91503f8ad4ebf756147c87c9296f
+ fetched at: 20201001-125124
