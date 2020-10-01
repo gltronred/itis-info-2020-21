@@ -1,7 +1,7 @@
 # Лисицына
 - [1: WA 01](1.md)
-- [2: WA 01](2.md)
+- [2: AC](2.md)
 - [3: WA 01](3.md)
 
-Commit: 124786154ab368abbab86e6c336c4b4a0c693c87
- fetched at: 20201001-120605
+Commit: f715e16d58485fd47fe1b45d74399b43376be1de
+ fetched at: 20201001-121647
