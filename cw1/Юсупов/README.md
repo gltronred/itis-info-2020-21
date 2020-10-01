@@ -1,7 +1,7 @@
 # Юсупов
-- [1: WA 01](1.md)
-- [2: WA 01](2.md)
-- [3: WA 01](3.md)
+- [1: AC](1.md)
+- [2: AC](2.md)
+- [3: AC](3.md)
 
-Commit: 4acc645d359ae8901944bf58bba358a772e3e673
- fetched at: 20201001-125812
+Commit: fcb1bb8fe13194ce4e4deaa32a081b5f430e4c41
+ fetched at: 20201001-130149
