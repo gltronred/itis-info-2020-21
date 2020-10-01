@@ -1,7 +1,4 @@
 # Столповский
-- [1: AC](1.md)
-- [2: AC](2.md)
-- [3: AC](3.md)
 
-Commit: 3d7922b9bfc0542c9ed091b3c2b582bde79397ed
- fetched at: 20201001-131056
+Commit: 9e020c917e2490878d8f0e79767a0d897f13c7f1
+ fetched at: 20201001-131603
