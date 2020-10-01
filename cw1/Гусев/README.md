@@ -1,7 +1,7 @@
 # Гусев
 - [1: AC](1.md)
 - [2: AC](2.md)
-- [3: WA 01](3.md)
+- [3: AC](3.md)
 
-Commit: 7f4875880a2810408a1af7aa96656ed008593182
- fetched at: 20201001-122126
+Commit: d9815658d4fc26eef0b4f2839ec09f4f7f25ecc6
+ fetched at: 20201001-122428
