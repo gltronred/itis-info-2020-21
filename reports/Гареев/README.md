@@ -1,8 +1,8 @@
 # Гареев
-- [12: CE](12.md)
+- [12: AC](12.md)
 - [13: AC](13.md)
 - [14: NA](14.md)
 - [15: NA](15.md)
 
-Commit: 3975aca08d61487c160104d967064ff20ae07b34
- fetched at: 20201001-080418
+Commit: 6d2720079c394c9a6b9d7c876e1e3bb82b970cd4
+ fetched at: 20201001-090418
