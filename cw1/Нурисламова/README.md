@@ -1,7 +1,7 @@
 # Нурисламова
-- [1: WA 01](1.md)
-- [2: WA 01](2.md)
+- [1: NA](1.md)
+- [2: AC](2.md)
 - [3: WA 01](3.md)
 
-Commit: 933cb79a38d66e59f76589d583fcd3abfbc1bbc7
- fetched at: 20201001-125107
+Commit: 14d8729db38ec223a63cf28f2f6f87f37021b668
+ fetched at: 20201001-125707
