@@ -1,8 +1,6 @@
 # Гусев
-- [12: AC](12.md)
-- [13: AC](13.md)
 - [14: AC](14.md)
 - [15: AC](15.md)
 
 Commit: ae1a22f303adacd1c150e287d4c8fc38c102d759
- fetched at: 20201001-220544
+ fetched at: 20201002-122423

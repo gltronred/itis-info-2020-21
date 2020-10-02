@@ -1,8 +1,6 @@
 # Зайнуллина
-- [12: WA 04](12.md)
-- [13: AC](13.md)
 - [14: NA](14.md)
 - [15: NA](15.md)
 
 Commit: 96f7aa88afbdfdd8fa0995616aadf5f69b294793
- fetched at: 20201001-220548
+ fetched at: 20201002-122426
