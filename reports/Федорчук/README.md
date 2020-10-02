@@ -1,6 +1,6 @@
 # Федорчук
-- [14: WA 3](14.md)
+- [14: RE 01](14.md)
 - [15: RE 01](15.md)
 
-Commit: 8ba57e8bbf5eab7dcbc0378de23ff97fe992ab56
- fetched at: 20201003-010301
+Commit: f325e09e79f26c7a5a6334bb7c422fbf785b7777
+ fetched at: 20201003-011803
