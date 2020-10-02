@@ -1,7 +1,7 @@
 # Асадуллин
-- [1: RE 01](1.md)
+- [1: RE 001 (0/10)](1.md)
 - [2: AC](2.md)
 - [3: AC](3.md)
 
-Commit: 489f5b4a5634e7fc0a1c30057974fe4f4b827b7a
- fetched at: 20201001-131825
+Commit: 60f3fc8369d4f2289180ba103ba78ce331ae80db
+ fetched at: 20201001-132551
