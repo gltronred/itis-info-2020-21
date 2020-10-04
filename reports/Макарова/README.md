@@ -1,6 +1,6 @@
 # Макарова
-- [14: NA](14.md)
+- [14: WA 01](14.md)
 - [15: NA](15.md)
 
-Commit: 4906affab5725288bacbac32d57cd5b98ade1f9e
- fetched at: 20201004-104729
+Commit: 6aa4b92dc9c63da5ea31920590ebadfcb967a79f
+ fetched at: 20201004-110230
