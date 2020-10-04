@@ -1,6 +1,6 @@
 # Мухаев
-- [14: WA 5](14.md)
-- [15: WA 10](15.md)
+- [14: AC](14.md)
+- [15: AC](15.md)
 
-Commit: dcd53f0c6851636daba0dbf4998c020dd5394753
- fetched at: 20201005-001734
+Commit: f9827e977ca5dc4182906b2a1bdba42ea3135504
+ fetched at: 20201005-003236
