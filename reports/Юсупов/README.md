@@ -1,6 +1,6 @@
 # Юсупов
-- [14: NA](14.md)
-- [15: NA](15.md)
+- [14: AC](14.md)
+- [15: AC](15.md)
 
-Commit: 08c31891a9e0dfa6154d04653e0bc6f11ede587a
- fetched at: 20201004-221810
+Commit: 6cf4081a78e446aaf1c1ae6ac18cad9cec8f2b55
+ fetched at: 20201004-223314
