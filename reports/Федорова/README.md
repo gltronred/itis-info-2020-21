@@ -1,6 +1,6 @@
 # Федорова
-- [14: NA](14.md)
-- [15: NA](15.md)
+- [14: WA 01](14.md)
+- [15: AC](15.md)
 
-Commit: 31ec69139ebe0a88787c76534a98b27db8330483
- fetched at: 20201005-233258
+Commit: 4e70d8a3d352983c96864799eeb2f841adc016df
+ fetched at: 20201005-234756
