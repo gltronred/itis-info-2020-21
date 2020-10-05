@@ -1,6 +1,6 @@
 # Асфандьяров
 - [14: AC](14.md)
-- [15: WA 10](15.md)
+- [15: CE](15.md)
 
-Commit: 4b7757c676da327ff2e8576be6dfc89300368a76
- fetched at: 20201005-193209
+Commit: a4787d371c9c3c39fe3d0c9128133c23cffa8a3e
+ fetched at: 20201005-194710
