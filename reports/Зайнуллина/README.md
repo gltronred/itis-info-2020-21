@@ -1,6 +1,6 @@
 # Зайнуллина
-- [14: CE](14.md)
+- [14: WA 01](14.md)
 - [15: AC](15.md)
 
-Commit: 27878d76f7f86c095b3ef5e78e4e58188b86fcbb
- fetched at: 20201005-194723
+Commit: 4a5aecea116fc092175b26a47bf37dfe5b5d4fe3
+ fetched at: 20201005-200223
