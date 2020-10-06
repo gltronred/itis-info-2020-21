@@ -1,6 +1,6 @@
 # Хасанова
 - [14: AC](14.md)
-- [15: NA](15.md)
+- [15: RE 05](15.md)
 
-Commit: 62e7cd22e29d1f2979fc91f3a04df67b6d6f0a89
- fetched at: 20201006-123303
+Commit: da263fb981ad7383d926b6e45eda2e30cfd44a52
+ fetched at: 20201006-124803
