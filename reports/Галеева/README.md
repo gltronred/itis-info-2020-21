@@ -1,7 +1,5 @@
 # Галеева
-- [14: AC](14.md)
-- [15: AC](15.md)
 - [16: NA](16.md)
 
 Commit: 6ee7dbdce753eb679fb06e49e58c84a8fc7fc40b
- fetched at: 20201006-234713
+ fetched at: 20201007-000214
