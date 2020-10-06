@@ -1,6 +1,6 @@
 # Тихомиров
-- [14: NA](14.md)
+- [14: WA 3](14.md)
 - [15: NA](15.md)
 
-Commit: b25bdb53b272adf22f10ea5cc7d8186a3b6d1863
- fetched at: 20201006-230253
+Commit: bc7383eac232d58603295017d499f60e80f0bb40
+ fetched at: 20201006-231752
