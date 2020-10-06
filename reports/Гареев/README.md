@@ -1,6 +1,6 @@
 # Гареев
 - [14: AC](14.md)
-- [15: WA 10](15.md)
+- [15: AC](15.md)
 
-Commit: 0c6bc982af8f4beb420076f4734c836a2b0d622b
- fetched at: 20201006-173218
+Commit: 053a7a06a5b7ee2121ad59f1711769ccbdfdffe4
+ fetched at: 20201006-174716
