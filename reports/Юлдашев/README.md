@@ -1,5 +1,5 @@
 # Юлдашев
-- [16: NA](16.md)
+- [16: CE](16.md)
 
-Commit: 2ab4dca6cf0ce8274fd850f139b37f154e0d73b9
- fetched at: 20201007-203307
+Commit: fd44ce221ab88cb222d54b7af368a4d29ea039aa
+ fetched at: 20201007-204808
