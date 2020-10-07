@@ -1,5 +1,5 @@
 # Гусев
-- [16: NA](16.md)
+- [16: WA 14](16.md)
 
-Commit: 3233359f1e0e9edf830ac306923471649c94fbe0
- fetched at: 20201007-223220
+Commit: db75d752a0f63cf9ca1314aa31d56e0ff3e8177c
+ fetched at: 20201007-224719
