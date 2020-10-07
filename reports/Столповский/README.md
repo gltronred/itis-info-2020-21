@@ -1,5 +1,5 @@
 # Столповский
-- [16: NA](16.md)
+- [16: RE *](16.md)
 
-Commit: 4791f43ba3f3ac76acf3ca5268a291126dd9d1db
- fetched at: 20201007-151755
+Commit: 8b683a1845d739dd4eb61efa87db68ce0b155d48
+ fetched at: 20201007-153253
