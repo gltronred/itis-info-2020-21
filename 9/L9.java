@@ -43,5 +43,37 @@ public class L9 {
          * и её решение
          * 4 2 1
          */
+        Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
+        int[][] a = new int[n][n];
+        int[] b = new int[n];
+
+        for (int i=0; i<n; i++) {
+            a[i][i] = 1;
+            for (int j=i+1; j<n; j++) {
+                a[i][j] = sc.nextInt();
+            }
+            b[i] = sc.nextInt();
+        }
+
+        for (int i=0; i<n; i++) {
+            for(int j=0; j<n; j++) {
+                System.out.print(a[i][j] + " ");
+            }
+            System.out.println(" = " + b[i]);
+        }
+
+        int[] x = new int[n];
+        for (int i=n-1; i>=0; i--) {
+            x[i] = b[i];
+            for (int j=i+1; j<n; j++) {
+                x[i] -= a[i][j] * x[j];
+            }
+        }
+
+        for (int i=0; i<n; i++) {
+            System.out.print(x[i] + " ");
+        }
+        System.out.println();
     }
 }
