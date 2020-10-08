@@ -43,11 +43,14 @@ public class L9 {
          * и её решение
          * 4 2 1
          */
+
+        // Объявление переменных
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         int[][] a = new int[n][n];
         int[] b = new int[n];
 
+        // Ввод
         for (int i=0; i<n; i++) {
             a[i][i] = 1;
             for (int j=i+1; j<n; j++) {
@@ -56,6 +59,7 @@ public class L9 {
             b[i] = sc.nextInt();
         }
 
+        // Отладочный вывод: введено верно
         for (int i=0; i<n; i++) {
             for(int j=0; j<n; j++) {
                 System.out.print(a[i][j] + " ");
@@ -63,6 +67,7 @@ public class L9 {
             System.out.println(" = " + b[i]);
         }
 
+        // Решение
         int[] x = new int[n];
         for (int i=n-1; i>=0; i--) {
             x[i] = b[i];
@@ -71,6 +76,7 @@ public class L9 {
             }
         }
 
+        // Вывод
         for (int i=0; i<n; i++) {
             System.out.print(x[i] + " ");
         }
