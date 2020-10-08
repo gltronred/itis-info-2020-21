@@ -1,5 +1,5 @@
 # Прамзелев
 - [16: NA](16.md)
 
-Commit: 5283640fb437c514394a0444e7a300592b3120a9
- fetched at: 20201008-114743
+Commit: 5c7d39f3a3461a064678f6a533936ddecb7b88bb
+ fetched at: 20201008-120253

@@ -1,5 +1,5 @@
 # Столповский
 - [16: WA 14](16.md)
 
-Commit: 48417e7b3ac621704b21584ec71a6f421ab54426
- fetched at: 20201008-114755
+Commit: 30d63a76986bd67a7fb2e81ccb64fba439e2697d
+ fetched at: 20201008-120312
