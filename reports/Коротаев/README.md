@@ -1,5 +1,5 @@
 # Коротаев
-- [16: WA 14](16.md)
+- [16: RE 01](16.md)
 
-Commit: ab55c6208c7f6fcf97ee604c19e189a6fe7461a6
- fetched at: 20201008-120232
+Commit: e5b789ae0b19a25e0ff72202dc534783447c08fe
+ fetched at: 20201008-120750
