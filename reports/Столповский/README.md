@@ -1,7 +1,7 @@
 # Столповский
 - [16: AC](16.md)
-- [17: NA](17.md)
+- [17: AC](17.md)
 - [18: NA](18.md)
 
-Commit: 30d63a76986bd67a7fb2e81ccb64fba439e2697d
- fetched at: 20201009-213256
+Commit: cdc1f8dae8512d65772dfb0443ce26bdc35168b5
+ fetched at: 20201009-214755
