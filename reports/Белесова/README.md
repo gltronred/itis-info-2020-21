@@ -1,7 +1,7 @@
 # Белесова
-- [16: NA](16.md)
+- [16: WA 20](16.md)
 - [17: NA](17.md)
 - [18: NA](18.md)
 
-Commit: 089ac865c62a443aefb447a55da53aa12f859cb6
- fetched at: 20201009-234711
+Commit: 9b4a7c6cd74e8ba37e6c7ce72c500579bb566abf
+ fetched at: 20201010-000212
