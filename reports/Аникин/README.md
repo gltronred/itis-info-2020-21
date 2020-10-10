@@ -1,7 +1,7 @@
 # Аникин
 - [16: WA 16](16.md)
 - [17: AC](17.md)
-- [18: NA](18.md)
+- [18: AC](18.md)
 
-Commit: 56406b1654c9a22fc99239168879e8eb032472e8
- fetched at: 20201010-173203
+Commit: 8e734603e38fb58daa5406f407f8b70d4cb3a1d5
+ fetched at: 20201010-174704
