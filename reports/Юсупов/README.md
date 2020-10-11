@@ -1,7 +1,7 @@
 # Юсупов
-- [16: WA 20](16.md)
+- [16: AC](16.md)
 - [17: NA](17.md)
 - [18: NA](18.md)
 
-Commit: 7ed2dc6fd8c1bb46d96413842493629009004742
- fetched at: 20201012-010314
+Commit: 8d9edd4f2a6e2519701eab46cd3f05fd9a04c622
+ fetched at: 20201012-011815
