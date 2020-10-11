@@ -1,7 +1,7 @@
 # Хусаенов
 - [16: NA](16.md)
 - [17: AC](17.md)
-- [18: NA](18.md)
+- [18: AC](18.md)
 
-Commit: 78eb22a541a4c6ecbff15e3f0885deb949dcf749
- fetched at: 20201011-154806
+Commit: a632867fc54508189c34b7f7e93b141692813419
+ fetched at: 20201011-160308
