@@ -1,7 +1,7 @@
 # Юмадилова
-- [16: NA](16.md)
+- [16: RE 01](16.md)
 - [17: NA](17.md)
 - [18: NA](18.md)
 
-Commit: 8e8ecf0b780dccb53dc77750f75fbe8c8fa422c5
- fetched at: 20201011-181810
+Commit: f67f2333645ee4cc26d67aebb29969e6b7b2c00f
+ fetched at: 20201011-183310
