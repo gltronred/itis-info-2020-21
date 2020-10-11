@@ -1,7 +1,7 @@
 # Прамзелев
-- [16: NA](16.md)
-- [17: NA](17.md)
+- [16: AC](16.md)
+- [17: WA 01](17.md)
 - [18: NA](18.md)
 
-Commit: 5c7d39f3a3461a064678f6a533936ddecb7b88bb
- fetched at: 20201011-213243
+Commit: 35f46e8bacca9a1270ed2d762647be9a22fc04fa
+ fetched at: 20201011-214742
