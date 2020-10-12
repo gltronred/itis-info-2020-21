@@ -1,7 +1,7 @@
 # Зайнуллина
 - [16: AC](16.md)
-- [17: NA](17.md)
-- [18: NA](18.md)
+- [17: AC](17.md)
+- [18: AC](18.md)
 
-Commit: 51f0021329c1da58b1b2bb495ef941b25e97b980
- fetched at: 20201012-214723
+Commit: 90b83392431a8627e34febca9563c79a21ef0b1f
+ fetched at: 20201012-220223
