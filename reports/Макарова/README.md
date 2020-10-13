@@ -1,7 +1,7 @@
 # Макарова
 - [16: AC](16.md)
 - [17: AC](17.md)
-- [18: NA](18.md)
+- [18: RE 3](18.md)
 
-Commit: 875c49730719e3e5961d1826bc27ec15442aab40
- fetched at: 20201013-181732
+Commit: 5efe835e8781f4f60cd10fce517ba7a47ace145d
+ fetched at: 20201013-183231
