@@ -18,7 +18,7 @@ public class L10 {
             if (t < n) {
                 while (!b[t]) {
                     b[t] = true;
-                    System.out.print(t + " ");;
+                    System.out.print((t+1) + " ");
                     t = a[t]-1;
                 }
                 System.out.println();
