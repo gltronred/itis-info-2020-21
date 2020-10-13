@@ -8,19 +8,21 @@ public class L10 {
         for (int i=0; i<n; i++) {
             a[i] = sc.nextInt();
         }
-        int[] b = new int[n];
-        for (int i=0; i<n; i++) {
-            b[i] = sc.nextInt();
-        }
 
-        int[] c = new int[n];
-        for (int i=0; i<n; i++) {
-            c[i] = b[a[i]-1];
+        boolean[] b = new boolean[n];
+        int t = 0;
+        while (t < n) {
+            while (t < n && b[t]) {
+                t++;
+            }
+            if (t < n) {
+                while (!b[t]) {
+                    b[t] = true;
+                    System.out.print(t + " ");;
+                    t = a[t]-1;
+                }
+                System.out.println();
+            }
         }
-
-        for (int i=0; i<n; i++) {
-            System.out.print(c[i]+" ");
-        }
-        System.out.println();
     }
 }
