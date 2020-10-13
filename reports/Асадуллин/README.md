@@ -1,7 +1,7 @@
 # Асадуллин
 - [16: AC](16.md)
-- [17: NA](17.md)
+- [17: AC](17.md)
 - [18: NA](18.md)
 
-Commit: 837b7bee8a4e39b1a22cab96d1cabc6fd533609a
- fetched at: 20201013-233207
+Commit: 2873ce66f3bf9826f1966eecfe4f2a00e31fb770
+ fetched at: 20201013-234707
