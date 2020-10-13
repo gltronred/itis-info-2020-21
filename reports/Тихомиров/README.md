@@ -1,7 +1,7 @@
 # Тихомиров
-- [16: NA](16.md)
+- [16: AC](16.md)
 - [17: NA](17.md)
 - [18: NA](18.md)
 
-Commit: 7df46a4199e46aeb8bf58e0e7b63e38b624834b9
- fetched at: 20201013-190255
+Commit: db2bede0983f1b0577a3effc006ab398f2c5c46e
+ fetched at: 20201013-191755
