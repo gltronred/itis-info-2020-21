@@ -1,7 +1,7 @@
 # Юлдашев
 - [16: AC](16.md)
 - [17: AC](17.md)
-- [18: WA 01](18.md)
+- [18: WA 02](18.md)
 
-Commit: 51ed011de44b751e27268d2f6e566ab9f0cc7cbb
- fetched at: 20201013-211812
+Commit: 9ea2586f4e5dd09d0fd8a79d121da03e67a3e9be
+ fetched at: 20201013-213308
