@@ -1,8 +1,8 @@
 # Садриев
-- [17: NA](17.md)
+- [17: AC](17.md)
 - [18: NA](18.md)
 - [19: NA](19.md)
 - [20: NA](20.md)
 
-Commit: 61604ce7a25bc402873d1ca28c5a6ca941646c8e
- fetched at: 20201015-170252
+Commit: 889a8fea617f89b3ee936534ec7be8442b8bbcfe
+ fetched at: 20201015-171749
