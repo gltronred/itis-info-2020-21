@@ -12,6 +12,13 @@ public class L11 {
             System.out.println(i + " -> " + a[i]);
         }
         System.out.println(max(a,5));
+
+        int[] b = {1,2,3};
+        int[] c = {1,2,3,4};
+        int[] d = add(b,c);
+        for (int i = 0; i<d.length, i++) {
+            System.out.println(d[i]);
+        }
     }
 
     // Функция проверки на простоту
@@ -50,5 +57,10 @@ public class L11 {
             }
         }
         return m;
+    }
+
+    // Функция поэлементного сложения двух массивов
+    public static int[] add(int[] a, int[] b) {
+        return new int[1];
     }
 }
