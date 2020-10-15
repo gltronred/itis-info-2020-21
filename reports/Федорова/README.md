@@ -1,8 +1,8 @@
 # Федорова
-- [17: NA](17.md)
+- [17: AC](17.md)
 - [18: AC](18.md)
 - [19: NA](19.md)
 - [20: NA](20.md)
 
-Commit: 56e8bcf2e4d05374e71d5432f1123d212806c090
- fetched at: 20201015-210255
+Commit: f05dd3536c5304fcdc894b87d9dcab1c1e353a85
+ fetched at: 20201015-211756

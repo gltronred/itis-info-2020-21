@@ -1,8 +1,8 @@
 # Сабитов
 - [17: AC](17.md)
 - [18: AC](18.md)
-- [19: NA](19.md)
+- [19: WA 01](19.md)
 - [20: NA](20.md)
 
-Commit: b6758eed759e66c6dacb90f27ae1d8db259d92c4
- fetched at: 20201015-210245
+Commit: 60b6b5b4cf5204ceb45c341236ab8e6dc848aa77
+ fetched at: 20201015-211745
