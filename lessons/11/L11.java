@@ -16,7 +16,7 @@ public class L11 {
         int[] b = {1,2,3};
         int[] c = {1,2,3,4};
         int[] d = add(b,c);
-        for (int i = 0; i<d.length, i++) {
+        for (int i = 0; i<d.length; i++) {
             System.out.println(d[i]);
         }
     }
