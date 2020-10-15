@@ -17,8 +17,9 @@ public class L11 {
         int[] c = {1,2,3,4};
         int[] d = add(b,c);
         for (int i = 0; i<d.length; i++) {
-            System.out.println(d[i]);
+            System.out.print(d[i] + " ");
         }
+        System.out.println();
     }
 
     // Функция проверки на простоту
@@ -61,6 +62,19 @@ public class L11 {
 
     // Функция поэлементного сложения двух массивов
     public static int[] add(int[] a, int[] b) {
-        return new int[1];
+        int n = a.length;
+        if (n < b.length) {
+            n = b.length;
+        }
+        int[] c = new int[n];
+        for (int i=0; i<n; i++) {
+            if (i < a.length) {
+                c[i] += a[i];
+            }
+            if (i < b.length) {
+                c[i] += b[i];
+            }
+        }
+        return c;
     }
 }
