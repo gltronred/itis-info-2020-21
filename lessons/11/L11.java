@@ -43,6 +43,12 @@ public class L11 {
 
     // Максимальный элемент из первых k элементов
     public static int max(int[] a, int k) {
-        return 0;
+        int m = a[0];
+        for (int i = 1; i < k; i++) {
+            if (m < a[i]) {
+                m = a[i];
+            }
+        }
+        return m;
     }
 }
