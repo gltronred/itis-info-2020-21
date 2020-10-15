@@ -1,6 +1,6 @@
 # Федорчук
 - [19: AC](19.md)
-- [20: NA](20.md)
+- [20: WA 5](20.md)
 
-Commit: 359d7cd0a72723dc192e773707590faa2f194d13
- fetched at: 20201016-023259
+Commit: 38a040b7b3c5284f7333cb0a00da7f0490144fb2
+ fetched at: 20201016-024800

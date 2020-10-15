@@ -1,6 +1,6 @@
 # Юмадилова
 - [19: AC](19.md)
-- [20: NA](20.md)
+- [20: WA 4](20.md)
 
-Commit: e8ace1d529c1733dd80f57d6c73fb481d038de1f
- fetched at: 20201016-023316
+Commit: 14b02fcaf3b4662939ee6176135f40797c5b27e5
+ fetched at: 20201016-024811
