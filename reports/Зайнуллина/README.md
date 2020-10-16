@@ -1,8 +1,8 @@
 # Зайнуллина
-- [19: NA](19.md)
+- [19: CE](19.md)
 - [20: NA](20.md)
 - [21: NA](21.md)
 - [22: NA](22.md)
 
-Commit: fcbdb6d5cdc2fb7dc1d114dfd4c93d86e1e4f061
- fetched at: 20201016-224723
+Commit: a7dbd2e002dfbba2155b2aec9dc59b128772c4b8
+ fetched at: 20201016-230221
