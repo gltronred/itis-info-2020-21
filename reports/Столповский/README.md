@@ -2,7 +2,7 @@
 - [19: AC](19.md)
 - [20: AC](20.md)
 - [21: AC](21.md)
-- [22: RE 3](22.md)
+- [22: RE 01](22.md)
 
-Commit: f63e6e8560e31eed75d1f2ab706b0e8c42cff0a2
- fetched at: 20201018-000249
+Commit: 9b6c3ac7c0522f9202d132b79a93e90d320e5809
+ fetched at: 20201018-001751
