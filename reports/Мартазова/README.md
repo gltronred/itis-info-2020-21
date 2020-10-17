@@ -4,5 +4,5 @@
 - [21: AC](21.md)
 - [22: RE 01](22.md)
 
-Commit: c472e854028715f7820fd44b060635ca4478fcc4
- fetched at: 20201017-191731
+Commit: 2bdfa5b9dc1a4fa8a7f2253e05928fe82b7cf2a7
+ fetched at: 20201017-193233
