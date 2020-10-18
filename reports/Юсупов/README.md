@@ -1,8 +1,8 @@
 # Юсупов
-- [19: NA](19.md)
-- [20: NA](20.md)
+- [19: AC](19.md)
+- [20: RE 5](20.md)
 - [21: NA](21.md)
 - [22: NA](22.md)
 
-Commit: a98376436ceb22d5fd2f4cc18c4fa530ff2ec2e8
- fetched at: 20201018-174810
+Commit: dc50c0e74fa6047d2275dd96693819cbeb327fb2
+ fetched at: 20201018-175812
