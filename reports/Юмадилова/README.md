@@ -1,8 +1,8 @@
 # Юмадилова
 - [19: AC](19.md)
-- [20: RE 03](20.md)
+- [20: WA 6](20.md)
 - [21: NA](21.md)
 - [22: NA](22.md)
 
-Commit: b5c484af34c4bbb05e187242cc16d148d5c7d4e5
- fetched at: 20201018-170308
+Commit: bb226d5499b0175e4c93b9ee42d86acd9bd3a435
+ fetched at: 20201018-171809
