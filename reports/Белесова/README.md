@@ -4,5 +4,5 @@
 - [21: RE 02](21.md)
 - [22: NA](22.md)
 
-Commit: 83ab015dd22f04c0a5db340af91560ff2e87f680
- fetched at: 20201019-233212
+Commit: a0fe01b2e0c04d2e15cc1d3e983ae4d111373d90
+ fetched at: 20201019-234712
