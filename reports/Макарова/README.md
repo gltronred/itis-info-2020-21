@@ -1,10 +1,10 @@
 # Макарова
 - [19: AC](19.md)
 - [20: AC](20.md)
-- [21: WA 01](21.md)
+- [21: AC](21.md)
 - [22: NA](22.md)
 - [23: NA](23.md)
 - [24: NA](24.md)
 
-Commit: 4e0064e20457147f864b15ed316121a1f9599541
- fetched at: 20201020-200230
+Commit: 06c865fceccd0fd383ee1dd80973b0bf74faa0fc
+ fetched at: 20201020-201729
