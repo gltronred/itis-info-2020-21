@@ -1,10 +1,10 @@
 # Юлдашев
 - [19: AC](19.md)
 - [20: AC](20.md)
-- [21: NA](21.md)
+- [21: AC](21.md)
 - [22: NA](22.md)
 - [23: NA](23.md)
 - [24: NA](24.md)
 
-Commit: 5e9f4fd4588f9eec689a11a2a94bd77948bca880
- fetched at: 20201020-193304
+Commit: 8541e93ec78cbbdada5c283ee3a074e782ceeb1c
+ fetched at: 20201020-194807
