@@ -1,10 +1,10 @@
 # Хусаенов
 - [19: AC](19.md)
 - [20: AC](20.md)
-- [21: NA](21.md)
+- [21: RE 02](21.md)
 - [22: NA](22.md)
 - [23: NA](23.md)
 - [24: NA](24.md)
 
-Commit: c9bdcea5340989c58c684b2d9f0854d04aea1c53
- fetched at: 20201020-220305
+Commit: 44174c58266a5f1e038217ea05d1023b6ac1dbae
+ fetched at: 20201020-221806
