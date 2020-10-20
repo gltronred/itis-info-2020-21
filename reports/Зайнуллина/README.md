@@ -3,6 +3,8 @@
 - [20: AC](20.md)
 - [21: AC](21.md)
 - [22: AC](22.md)
+- [23: NA](23.md)
+- [24: NA](24.md)
 
 Commit: 81b5f6180be4f32e5aeff530521be80a3f758f97
- fetched at: 20201020-190222
+ fetched at: 20201020-191721
