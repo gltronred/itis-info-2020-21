@@ -6,5 +6,5 @@
 - [23: AC](23.md)
 - [24: RE 6](24.md)
 
-Commit: 84fc2b247525cdee36b4d912670cd4b6fff24314
- fetched at: 20201020-203220
+Commit: d557059c8f701fea13fefa284f445656983752f1
+ fetched at: 20201020-204719
