@@ -1,8 +1,8 @@
 # Лисицына
 - [19: AC](19.md)
 - [20: AC](20.md)
-- [21: NA](21.md)
+- [21: CE](21.md)
 - [22: NA](22.md)
 
-Commit: a24a8de1cf5bd9c432a0f2b6b5652d03c89a741b
- fetched at: 20201020-150228
+Commit: c9a2b82c01be54470b6f799999fdde6587c25139
+ fetched at: 20201020-151727
