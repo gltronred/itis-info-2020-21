@@ -1,8 +1,8 @@
 # Лисицына
-- [21: CE](21.md)
-- [22: NA](22.md)
+- [21: WA 01](21.md)
+- [22: WA 01](22.md)
 - [23: NA](23.md)
 - [24: NA](24.md)
 
-Commit: 5fc2d9646bf03e1003d117927de3c40cb4697c7d
- fetched at: 20201021-191729
+Commit: a69b5b2da55d551a5ccc897b7b71ae391c15f4e2
+ fetched at: 20201021-193227
