@@ -1,8 +1,8 @@
 # Аникин
 - [21: AC](21.md)
-- [22: WA 3](22.md)
+- [22: AC](22.md)
 - [23: NA](23.md)
 - [24: NA](24.md)
 
-Commit: 4a45e5ad097fffd5721057e457200c887e33efbd
- fetched at: 20201021-231704
+Commit: 6622cd7a4d7d83cd1d0a49eb627f1676c820d0ee
+ fetched at: 20201021-233204
