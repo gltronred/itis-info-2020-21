@@ -1,8 +1,8 @@
 # Гареев
-- [21: WA 01](21.md)
-- [22: NA](22.md)
+- [21: WA 5](21.md)
+- [22: WA 01](22.md)
 - [23: NA](23.md)
 - [24: NA](24.md)
 
-Commit: 0e0c202cbfeb19b049157aaaaccefb6b66c7a9e4
- fetched at: 20201022-111719
+Commit: 6792873780f5fd8534e8728b86577903a43cffa6
+ fetched at: 20201022-113217
