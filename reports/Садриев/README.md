@@ -1,8 +1,8 @@
 # Садриев
-- [21: WA 01](21.md)
-- [22: NA](22.md)
+- [21: AC](21.md)
+- [22: AC](22.md)
 - [23: NA](23.md)
 - [24: NA](24.md)
 
-Commit: eb4e04c9d7fa02d1c46d4852cb17e4e4a1b1f06d
- fetched at: 20201022-201747
+Commit: 9e0b0d0454da0a417984fe456d23da6322daf4f6
+ fetched at: 20201022-203246
