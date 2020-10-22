@@ -2,7 +2,7 @@
 - [21: AC](21.md)
 - [22: AC](22.md)
 - [23: AC](23.md)
-- [24: WA 02](24.md)
+- [24: AC](24.md)
 
-Commit: 4789085db3097ce3ce249234a35d2be8b1462587
- fetched at: 20201022-080212
+Commit: 9f1277deb2f8074c20d2f6406ba86fe776279107
+ fetched at: 20201022-081711
