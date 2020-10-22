@@ -1,8 +1,8 @@
 # Сабитов
 - [21: AC](21.md)
-- [22: NA](22.md)
+- [22: AC](22.md)
 - [23: NA](23.md)
 - [24: NA](24.md)
 
-Commit: 158bd9e51c67182bdd1032af0818f97511decc02
- fetched at: 20201022-203243
+Commit: c273a20fad87ce0bb5a24a648aefcef9e603317e
+ fetched at: 20201022-204743
