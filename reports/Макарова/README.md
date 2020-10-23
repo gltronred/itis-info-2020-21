@@ -1,6 +1,6 @@
 # Макарова
-- [23: NA](23.md)
+- [23: RE 02](23.md)
 - [24: NA](24.md)
 
-Commit: 7681402cbb2b0f6e3b0c9deac2f1c8ead004c13c
- fetched at: 20201023-190227
+Commit: 2954b216ef5a260e391b0d33585625fd47f9bb5b
+ fetched at: 20201023-191727
