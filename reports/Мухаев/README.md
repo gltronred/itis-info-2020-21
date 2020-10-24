@@ -1,6 +1,6 @@
 # Мухаев
 - [23: AC](23.md)
-- [24: CE](24.md)
+- [24: WA 01](24.md)
 
-Commit: d2108a2465eaef1a9bf246a94da7f1e9b25abb1e
- fetched at: 20201025-020235
+Commit: 98d1df4fb30c820ed8d612b7651a536cc529c535
+ fetched at: 20201025-021733
