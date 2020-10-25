@@ -1,6 +1,6 @@
 # Хусаенов
-- [23: NA](23.md)
+- [23: AC](23.md)
 - [24: NA](24.md)
 
-Commit: 9f3f1ba4f6acfb1e6f2be9baed1204404eee4f30
- fetched at: 20201025-133258
+Commit: de3fc78b5c58571b0c14a9634a2f8f50973ca32f
+ fetched at: 20201025-134759
