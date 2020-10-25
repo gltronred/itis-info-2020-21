@@ -1,6 +1,6 @@
 # Сабитов
-- [23: NA](23.md)
+- [23: AC](23.md)
 - [24: NA](24.md)
 
-Commit: c273a20fad87ce0bb5a24a648aefcef9e603317e
- fetched at: 20201026-000243
+Commit: eb80331c557c0c179362469b192e3c3d742eb056
+ fetched at: 20201026-001744
