@@ -1,6 +1,6 @@
 # Юлдашев
-- [23: NA](23.md)
+- [23: WA 5](23.md)
 - [24: NA](24.md)
 
-Commit: ee1bc652111c520d85ad108effad6a6468f8bab2
- fetched at: 20201025-114801
+Commit: 773682b5fd622d8198b7e310da8b2cbc4403ba04
+ fetched at: 20201025-120304
