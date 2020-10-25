@@ -1,6 +1,6 @@
 # Юсупов
-- [23: NA](23.md)
-- [24: NA](24.md)
+- [23: AC](23.md)
+- [24: AC](24.md)
 
-Commit: 97d656f2ba83b1dc9fe0180ea8db09a865609c77
- fetched at: 20201025-190312
+Commit: 6c9d5ced98633b38ae014e647b9903b9a6c9859e
+ fetched at: 20201025-191811
