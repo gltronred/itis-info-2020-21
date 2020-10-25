@@ -1,6 +1,6 @@
 # Зайнуллина
-- [23: NA](23.md)
+- [23: WA 02](23.md)
 - [24: NA](24.md)
 
-Commit: 81b5f6180be4f32e5aeff530521be80a3f758f97
- fetched at: 20201025-144722
+Commit: d6668328ee1400ef4df674f32a9b8634a5105780
+ fetched at: 20201025-150222
