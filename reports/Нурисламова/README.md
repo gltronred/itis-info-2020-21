@@ -1,6 +1,6 @@
 # Нурисламова
-- [23: NA](23.md)
+- [23: AC](23.md)
 - [24: NA](24.md)
 
-Commit: b9645ddb03e6639b7d1bc4c50a6fe9d8b848c5e9
- fetched at: 20201026-140237
+Commit: 92c7e45db2b5c7f5c4a72e7ac072edb3fad10e74
+ fetched at: 20201026-141738
