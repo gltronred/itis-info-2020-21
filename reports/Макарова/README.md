@@ -1,6 +1,6 @@
 # Макарова
 - [23: AC](23.md)
-- [24: CE](24.md)
+- [24: AC](24.md)
 
-Commit: 9274dfcf3bd8ca18213040838ef764daed8b568c
- fetched at: 20201026-174728
+Commit: 5c4de5672ce0fe134b485da8f124b60ff46ef637
+ fetched at: 20201026-180229
