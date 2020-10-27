@@ -1,6 +1,6 @@
 # Гареев
 - [23: AC](23.md)
-- [24: NA](24.md)
+- [24: AC](24.md)
 
-Commit: dd39b3077e9702721056e99465886d99f338b633
- fetched at: 20201027-171718
+Commit: 00906659cebeb8723621abadbef3d6056c1795f5
+ fetched at: 20201027-173219

@@ -1,6 +1,6 @@
 # Тихомиров
-- [23: NA](23.md)
+- [23: AC](23.md)
 - [24: NA](24.md)
 
-Commit: 51b163a4ec8e09f2f8243061edf7c2c631836e1a
- fetched at: 20201027-171752
+Commit: be3c273aeb922a06a6f673a822c6cde3f0071c85
+ fetched at: 20201027-173301
