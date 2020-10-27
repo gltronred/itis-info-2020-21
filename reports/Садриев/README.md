@@ -1,6 +1,6 @@
 # Садриев
-- [23: NA](23.md)
+- [23: CE](23.md)
 - [24: NA](24.md)
 
-Commit: dee3996e68f752e6739d7fcdbad25f20557eb5f6
- fetched at: 20201027-164749
+Commit: d0ccf9368ab87f02f13b37743efffe9036987e02
+ fetched at: 20201027-170250
