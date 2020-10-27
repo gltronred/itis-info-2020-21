@@ -1,6 +1,6 @@
 # Хасанова
-- [23: RE 5](23.md)
+- [23: CE](23.md)
 - [24: NA](24.md)
 
-Commit: bd6f19789ace36a5ac6f428d3c107cdbc0d2e6ec
- fetched at: 20201027-110300
+Commit: 8c139cc71d1c85237deca386ff91d232a93f9f5b
+ fetched at: 20201027-111800
