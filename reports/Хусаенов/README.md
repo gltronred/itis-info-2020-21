@@ -1,6 +1,6 @@
 # Хусаенов
 - [23: AC](23.md)
-- [24: RE 5](24.md)
+- [24: AC](24.md)
 
-Commit: 499759681a52be0f6607aca2ee04dfe52ba3ebf3
- fetched at: 20201027-151804
+Commit: f14680dd50888c4039e73d0756a0481b533962a4
+ fetched at: 20201027-153304
