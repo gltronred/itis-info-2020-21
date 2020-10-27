@@ -20,7 +20,11 @@
 - [13 октября 2020](lessons/10/L10.java)
 - [15 октября 2020](lessons/11/L11.java)
 - [20 октября 2020](lessons/12/L12.java)
-- [22 октября 2020 - оригинальное решение](https://github.com/gltronred/itis-info-2020-21/blob/c49d20c04f24c48b46e83191521ebf0732cfb536/lessons/13/Main.java)
+- 22 октября 2020
+  + [неповторимый оригинал](https://github.com/gltronred/itis-info-2020-21/blob/c49d20c04f24c48b46e83191521ebf0732cfb536/lessons/13/Main.java)
+  + [жалкий рефакторинг](lessons/13/Main.java)
+- 27 октября 2020 - рефакторинг и сортировки
+
 
 ## Формат репозитория для решений
 
