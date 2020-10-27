@@ -1,6 +1,6 @@
 # Лисицына
 - [23: AC](23.md)
-- [24: NA](24.md)
+- [24: WA 5](24.md)
 
-Commit: e939490806846f9236f962553548cb4f3b5f6192
- fetched at: 20201027-034725
+Commit: 0f7c3bdf902337d80ec43bd811e65bef8ee61342
+ fetched at: 20201027-040226
