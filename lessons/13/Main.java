@@ -28,88 +28,56 @@ import java.util.stream.*;
 
 public class Main {
     public static int hand(int[][] a) {
-      int[] b = new int[4];
-      int[] c = new int[15];
+      // Количество по значениям
+      int[] value = new int[15];
       for (int i = 0; i < 5; i++){
-        c[a[i][0]]++;
-      }
-      for (int i = 0; i < 5; i++){
-        b[a[i][1]]++;
-      }
-      int m = 0;
-      for (int i = 2; i<14;i++ ) {
-        if (c[i] == 1 && c[i+1] == 1) {
-          m++;
-        } else if  (m == 4) {
-          for (int j = 0; j < 4; j++) {
-            if (b[j] == 5) {
-              return 8; 
-            }
-          }
-        } else {
-          m = 0;
-        }
-        }
-      for (int i = 2; i < 15; i++){
-        if (c[i] == 4){
-          return 7;
-        }
-      }
-      int f = 0;
-      int g = 0;
-      for(int i = 2; i < 15;i++) {
-        if(c[i] == 2) {
-          f++;
-        }
-        if(c[i] == 3) {
-          g++;
-        }
-      }
-      if(f==1 && g ==1) {
-        return 6;
-      }
-      
-      for (int i = 0; i < 4; i++){
-        if (b[i] == 5){
-          return 5;
-        }
-      }
-      int h = 0;
-      for (int i = 2; i<15;i++ ) {
-        if (c[i] == 1 && c[i+1]==1) {
-          h++;
-        } else if  (h == 4) {
-          return 4;
-        } else {
-          h = 0;
-        }
-        }
-      for (int i = 2; i < 15; i++){
-        if (c[i] == 3){
-          return 3;
-        }
+        value[a[i][0]]++;
       }
 
-      int pair = 0;
-      for(int i=2;i<15;i++){
-        if(c[i]==2){
-          pair++;
-        }
-      }
-      if(pair==2){
-        return 2;
+      // Количество по мастям
+      int[] suit = new int[4];
+      for (int i = 0; i < 5; i++){
+        suit[a[i][1]]++;
       }
 
+      // Сколько раз встречается K одинаковых карт
+      int[] count = new int[6];
       for (int i = 0; i < 15; i++){
-        if (c[i] == 2){
-          return 1;
-        }
+        count[value[i]]++;
       }
 
+      // У всех ли карт одна и та же масть
+      boolean flush = false;
+      for (int i = 0; i < 4; i++) {
+        flush |= (suit[i] == 5);
+      }
 
-      
-        return 0;
+      // Все ли карты по порядку
+      int min = 2;
+      while (min < 10 && value[min] == 0) {
+        min++;
+      }
+      // теперь в min - индекс первого
+      // ненулевого элемента из c
+      boolean straight = true;
+      for (int i = min; i < min+4; i++) {
+        straight &= (value[i] == 1);
+      }
+
+      // Комбинации
+      if (straight && flush) return 8;
+      if (count[4] == 1) return 7;
+      if (count[3] == 1 && count[2] == 1)
+        return 6;
+      if (flush) return 5;
+      if (straight) return 4;
+      if (count[3] == 1) return 3;
+      if (count[2] == 2) return 2;
+      if (count[2] == 1) return 1;
+      // Ничего нет
+      return 0;
     }
+
     public static void main(String[] args) {
         t(new int[][]{{14,0},{6,0},{4,0},{3,0},{2,0}},     // flush
           5);
