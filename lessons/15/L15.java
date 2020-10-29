@@ -6,6 +6,17 @@ public class L15 {
     // Возвращает индекс элемента, если он есть
     // и -1, если такого элемента нет
     public static int find(int[] a, int x) {
+        int l = 0, r = a.length;
+        while (l < r) {
+            int m = (l + r) / 2;
+            if (a[m] < x) {
+                l = m + 1;
+            } else if (a[m] > x) {
+                r = m;
+            } else {
+                return m;
+            }
+        }
         return -1;
     }
     public static void main(String[] args) {
