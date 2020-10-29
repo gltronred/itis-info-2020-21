@@ -1,6 +1,6 @@
 # Тихомиров
-- [25: NA](25.md)
-- [26: NA](26.md)
+- [25: WA 01](25.md)
+- [26: WA 01](26.md)
 
-Commit: 0520cde1c70dd118c30fe8fc9b95d632d0ab8810
- fetched at: 20201029-191754
+Commit: f7895872070ba2376ffbcad03fc08bed26452701
+ fetched at: 20201029-193254
