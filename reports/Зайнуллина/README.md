@@ -1,6 +1,6 @@
 # Зайнуллина
-- [25: WA 01](25.md)
-- [26: WA 01](26.md)
+- [25: AC](25.md)
+- [26: AC](26.md)
 
-Commit: 8a0a4e7ffcc23ab588c0aa3322178fbb1f2f7fd9
- fetched at: 20201029-080222
+Commit: 6fc1401f1f4a7cb2f8a3e2bbd53622fd434dbad9
+ fetched at: 20201029-081722
