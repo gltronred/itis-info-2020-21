@@ -27,6 +27,7 @@ public class L15 {
         test(new int[]{1,2,3,3,4,4,5,7,8},8,8);
         test(new int[]{1,2,3,3,4,4,5,7,8},-1,-1);
         test(new int[]{1,2,3,3,4,4,5,7,8},10,-1);
+        test(new int[]{1,2,3,5,7},4,-1);
     }
     public static void test(int[] a, int x, int r) {
         if (r != -1 && a[r] != x) {
