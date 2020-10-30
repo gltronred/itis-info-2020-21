@@ -1,6 +1,6 @@
 # Столповский
 - [25: AC](25.md)
-- [26: WA 01](26.md)
+- [26: AC](26.md)
 
-Commit: 1795f547011ebe5bb6d78f38219370f9063fe8c2
- fetched at: 20201030-201749
+Commit: c2c4ad30f0e3f65bc57ab3e7e9c761ac8e725df6
+ fetched at: 20201030-203249
