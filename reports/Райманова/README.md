@@ -1,6 +1,6 @@
 # Райманова
-- [25: WA 01](25.md)
+- [25: AC](25.md)
 - [26: WA 01](26.md)
 
-Commit: 3cf0e64be84d8ffee83830ad9aa08cf291ee08af
- fetched at: 20201030-221743
+Commit: c32f0afba1399a13d00871f4ccb88f8523067229
+ fetched at: 20201030-223243
