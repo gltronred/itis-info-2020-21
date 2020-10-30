@@ -1,6 +1,6 @@
 # Хасанова
-- [25: CE](25.md)
-- [26: WA 01](26.md)
+- [25: WA 6](25.md)
+- [26: AC](26.md)
 
-Commit: 80f822228885ae0c76facd265f914d996588030a
- fetched at: 20201030-224759
+Commit: 5febecaaec3a7faebdd91e241281589a4e0aee2c
+ fetched at: 20201030-230301
