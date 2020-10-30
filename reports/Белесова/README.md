@@ -1,6 +1,6 @@
 # Белесова
 - [25: AC](25.md)
-- [26: WA 01](26.md)
+- [26: AC](26.md)
 
-Commit: e95acd86550a38a1f2d7c4b08aed39ef17c9dfbd
- fetched at: 20201030-084711
+Commit: d9990cb7f8e89f7b23f0970ac0d4aa796835763f
+ fetched at: 20201030-090211
