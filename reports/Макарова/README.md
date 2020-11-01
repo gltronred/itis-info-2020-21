@@ -1,7 +1,7 @@
 # Макарова
 - [25: AC](25.md)
 - [26: AC](26.md)
-- [27: WA 01](27.md)
+- [27: WA 8](27.md)
 
-Commit: e629531d4e07284481db33e0a9b3af1e8fe0c996
- fetched at: 20201101-210232
+Commit: 1c9f1a9cfee5787596d1c6d900deb5d76e5a8849
+ fetched at: 20201101-211732
