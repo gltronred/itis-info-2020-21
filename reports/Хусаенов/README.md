@@ -1,6 +1,6 @@
 # Хусаенов
 - [25: AC](25.md)
-- [26: WA 01](26.md)
+- [26: AC](26.md)
 
-Commit: 5076dc124f9090d6b0bdb07e1256999ab461b864
- fetched at: 20201101-120304
+Commit: 53560a5c9ea61a74754d18fb8aad8d72d15d77d1
+ fetched at: 20201101-121810
