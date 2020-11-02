@@ -1,7 +1,7 @@
 # Коротаев
 - [25: AC](25.md)
 - [26: AC](26.md)
-- [27: WA 01](27.md)
+- [27: WA 8](27.md)
 
-Commit: 876e81a44461aeb93c1165cd2dc948a8d8264121
- fetched at: 20201102-161724
+Commit: e11af6025fc74d3360c8340e2e9eb21b9883d56f
+ fetched at: 20201102-163224
