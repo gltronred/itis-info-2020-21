@@ -1,7 +1,7 @@
 # Федорова
-- [25: WA 01](25.md)
-- [26: WA 01](26.md)
+- [25: CE](25.md)
+- [26: CE](26.md)
 - [27: WA 01](27.md)
 
-Commit: eee53d2ffa99bc147131b6883c2d810b528ddf9c
- fetched at: 20201102-221754
+Commit: e2cc0a96921919762fd1a5fa9eccfe65446590e8
+ fetched at: 20201102-223253
