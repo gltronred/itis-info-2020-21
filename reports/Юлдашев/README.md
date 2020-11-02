@@ -1,7 +1,7 @@
 # Юлдашев
 - [25: AC](25.md)
-- [26: CE](26.md)
+- [26: AC](26.md)
 - [27: WA 01](27.md)
 
-Commit: 29fd2093fb2c0264addc9fe735b60a91498d5a42
- fetched at: 20201102-191808
+Commit: a24e4a8f64963fffdabdd9507e2024373446c35d
+ fetched at: 20201102-193310
