@@ -1,7 +1,7 @@
 # Сабитов
 - [25: AC](25.md)
-- [26: WA 01](26.md)
+- [26: AC](26.md)
 - [27: WA 01](27.md)
 
-Commit: f30b6f67ac036307288c6d29a650abfbb46c5914
- fetched at: 20201102-200252
+Commit: 99b8d96a96f0b7efc6d4ffd071f2885104014ae6
+ fetched at: 20201102-201756
