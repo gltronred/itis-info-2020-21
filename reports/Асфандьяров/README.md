@@ -1,7 +1,7 @@
 # Асфандьяров
-- [25: WA 01](25.md)
+- [25: CE](25.md)
 - [26: WA 01](26.md)
 - [27: WA 01](27.md)
 
-Commit: 57568798ab23ce8dc1addcaa905fb656877452c0
- fetched at: 20201102-183209
+Commit: 9f6c33575d04d4330fdbb2221262a9afb6723372
+ fetched at: 20201102-184709
