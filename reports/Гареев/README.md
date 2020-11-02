@@ -1,7 +1,7 @@
 # Гареев
 - [25: AC](25.md)
 - [26: AC](26.md)
-- [27: WA 4](27.md)
+- [27: AC](27.md)
 
-Commit: 1a00cfe25c88493390415036a6bfe371c686111a
- fetched at: 20201102-151717
+Commit: 7986e4c4d15833f2e33d18695f9f280cba31efc7
+ fetched at: 20201102-153217
