@@ -1,7 +1,7 @@
 # Белесова
 - [25: AC](25.md)
 - [26: AC](26.md)
-- [27: WA 4](27.md)
+- [27: WA 8](27.md)
 
-Commit: 92ff5cc97901ccceaf0509563766f3c228470217
- fetched at: 20201102-234712
+Commit: 8f28120d52a7adc60b487424b95bc8d66606cecc
+ fetched at: 20201103-000212
