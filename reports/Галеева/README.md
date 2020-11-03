@@ -1,7 +1,7 @@
 # Галеева
-- [25: CE](25.md)
+- [25: AC](25.md)
 - [26: WA 01](26.md)
 - [27: WA 01](27.md)
 
-Commit: f0408d302f083b6ef2b8d133b0b1b7a732533da7
- fetched at: 20201103-114714
+Commit: 27f39b864e650c20db48426fa13962d0180d88cb
+ fetched at: 20201103-120214
