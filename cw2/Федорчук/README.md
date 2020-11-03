@@ -1,7 +1,4 @@
 # Федорчук
-- [1: AC](1.md)
-- [2: AC](2.md)
-- [3: RE 01 (0/4)](3.md)
 
-Commit: b309fae827322322510fbffc505a89b2d18604d2
- fetched at: 20201103-152855
+Commit: 6005f0d043035bd44892fe99ee80d8f5598322ac
+ fetched at: 20201103-153754
