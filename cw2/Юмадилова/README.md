@@ -1,7 +1,7 @@
 # Юмадилова
-- [1: CE](1.md)
+- [1: AC](1.md)
 - [2: AC](2.md)
 - [3: WA 01 (0/4)](3.md)
 
-Commit: 856aa9aa54be1c08c340d5cf49a44e397c0c46c7
- fetched at: 20201103-145710
+Commit: 5d8b9cf0c6356bd78fe6bc04a4829870e1ad5417
+ fetched at: 20201103-150112

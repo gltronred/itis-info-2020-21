@@ -1,7 +1,7 @@
 # Юлдашев
 - [1: CE](1.md)
 - [2: AC](2.md)
-- [3: WA 04 (3/4)](3.md)
+- [3: RE 01 (0/4)](3.md)
 
-Commit: 22b74a44ca27745bc1f3061c5fe00c32059e1ed9
- fetched at: 20201103-145707
+Commit: df47fd9a5e2e89918165b15afd3c200189d74d91
+ fetched at: 20201103-150108
