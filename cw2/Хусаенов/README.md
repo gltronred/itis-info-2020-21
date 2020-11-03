@@ -1,7 +1,7 @@
 # Хусаенов
 - [1: WA 01 (0/2)](1.md)
-- [2: WA 01 (0/2)](2.md)
+- [2: AC](2.md)
 - [3: WA 01 (0/4)](3.md)
 
-Commit: 7f3afc2c8e64d13f1a8b528d3c20e48d344a4344
- fetched at: 20201103-144400
+Commit: e3d66699aaae031b69914c07c3aa655f80bc1359
+ fetched at: 20201103-145301

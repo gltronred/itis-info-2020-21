@@ -1,7 +1,7 @@
 # Зайнуллина
-- [1: WA 01 (0/2)](1.md)
-- [2: WA 01 (0/2)](2.md)
-- [3: WA 01 (0/4)](3.md)
+- [1: AC](1.md)
+- [2: AC](2.md)
+- [3: WA 02 (1/4)](3.md)
 
-Commit: ab0918c636959f4717d2ff7482cb8daf3f078d71
- fetched at: 20201103-144322
+Commit: 7480e9c99a8cb63edb96cdeedbc05ac6d00cf1fa
+ fetched at: 20201103-145222
