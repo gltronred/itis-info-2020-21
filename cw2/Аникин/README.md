@@ -1,7 +1,7 @@
 # Аникин
-- [1: CE](1.md)
+- [1: WA 01 (0/2)](1.md)
 - [2: CE](2.md)
-- [3: CE](3.md)
+- [3: WA 01 (0/4)](3.md)
 
-Commit: d441813a830c7548e914b943ad09ab2ce34f5fb5
- fetched at: 20201103-143404
+Commit: 69883b134a11e295db9976072a8afcb4e26461d0
+ fetched at: 20201103-143717
