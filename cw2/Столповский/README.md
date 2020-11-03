@@ -1,4 +1,7 @@
 # Столповский
+- [1: AC](1.md)
+- [2: AC](2.md)
+- [3: AC](3.md)
 
 Commit: b45c4f1af7fabdf628ac3034638892a14aa25053
- fetched at: 20201103-153747
+ fetched at: 20201103-153936

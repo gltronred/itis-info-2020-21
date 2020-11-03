@@ -1,4 +1,7 @@
 # Асадуллин
+- [1: AC](1.md)
+- [2: AC](2.md)
+- [3: CE](3.md)
 
-Commit: 8065ecf1b47f4bed9dc001fa809e9384292a3993
- fetched at: 20201103-153702
+Commit: 7dc3935ea4fe8b7e56c7e113e91bf924844125ac
+ fetched at: 20201103-153851
