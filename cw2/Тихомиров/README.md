@@ -1,7 +1,7 @@
 # Тихомиров
-- [1: WA 02 (1/2)](1.md)
+- [1: AC](1.md)
 - [2: AC](2.md)
 - [3: WA 01 (0/4)](3.md)
 
-Commit: c1b710be1123295f0bd94539e278c4a3457b4080
- fetched at: 20201103-151453
+Commit: d048fe9fec23d3c2aa80877ed39a3c912b5fc852
+ fetched at: 20201103-151754

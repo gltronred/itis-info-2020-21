@@ -1,7 +1,7 @@
 # Мухаев
 - [1: AC](1.md)
 - [2: AC](2.md)
-- [3: AC](3.md)
+- [3: CE](3.md)
 
-Commit: a789ae7e8c30fe12dd9e077ded67fc868565c65d
- fetched at: 20201103-151435
+Commit: 45b63da9f851bf2fc2f957ad0540fcddba8a44e1
+ fetched at: 20201103-151735
