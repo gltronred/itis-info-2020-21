@@ -1,7 +1,7 @@
 # Прамзелев
-- [25: AC](25.md)
-- [26: WA 01](26.md)
-- [27: WA 01](27.md)
+- [25: WA 7](25.md)
+- [26: WA 4](26.md)
+- [27: AC](27.md)
 
-Commit: b653e38e239a983c752114a91a2fd541ed1e8466
- fetched at: 20201103-140238
+Commit: ea7d9ccc234803e926b8c0e9bb8fb7f5f3d7ce62
+ fetched at: 20201103-141741

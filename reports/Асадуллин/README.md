@@ -1,7 +1,7 @@
 # Асадуллин
-- [25: WA 01](25.md)
+- [25: AC](25.md)
 - [26: WA 01](26.md)
 - [27: WA 01](27.md)
 
-Commit: e5e0b45b3fbcf15b8eea2bc04bf7c17f71747187
- fetched at: 20201103-140207
+Commit: 9d6f2a38c5aef8442756080b3a70b89b84765edf
+ fetched at: 20201103-141707
