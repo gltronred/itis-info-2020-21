@@ -1,5 +1,5 @@
 # Зайнуллина
-- [27: CE](27.md)
+- [27: WA 02](27.md)
 
-Commit: 1c5c1ba34f39d4418b5e72df95cad97841419619
- fetched at: 20201105-000223
+Commit: 0151a39de7a65df9331f90409cc30bcf23da3c60
+ fetched at: 20201105-001722
