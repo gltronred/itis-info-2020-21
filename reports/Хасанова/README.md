@@ -1,7 +1,5 @@
 # Хасанова
-- [25: AC](25.md)
-- [26: WA 02](26.md)
 - [27: WA 01](27.md)
 
-Commit: a40f45ccf1dfd918c0557ffdf6c92f6d720f4f4c
- fetched at: 20201103-141759
+Commit: c15317bbaa2f3ef4a4d9e49c93cc0132979b81b8
+ fetched at: 20201104-165042
