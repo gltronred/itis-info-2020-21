@@ -1,5 +1,5 @@
 # Федорчук
-- [27: WA 01](27.md)
+- [27: AC](27.md)
 
-Commit: 6005f0d043035bd44892fe99ee80d8f5598322ac
- fetched at: 20201104-234758
+Commit: 8e461356da1f31123abf5979d29cf0e0784fcdbd
+ fetched at: 20201105-000302
