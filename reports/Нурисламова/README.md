@@ -1,5 +1,5 @@
 # Нурисламова
-- [27: WA 01](27.md)
+- [27: AC](27.md)
 
-Commit: ee28843ba2e458b1e4990d750221a9642d98e714
- fetched at: 20201104-211737
+Commit: 371d5580183ffeeed9d718a4364c690e90106bef
+ fetched at: 20201104-213239
