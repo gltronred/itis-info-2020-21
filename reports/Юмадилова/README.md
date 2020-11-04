@@ -1,5 +1,5 @@
 # Юмадилова
-- [27: WA 01](27.md)
+- [27: WA 7](27.md)
 
-Commit: 0920e9a643ddafea71dcdaa11595ea628f303052
- fetched at: 20201105-003311
+Commit: e51113a09fc881495b7bdb16f6d13d48ed500962
+ fetched at: 20201105-004810
