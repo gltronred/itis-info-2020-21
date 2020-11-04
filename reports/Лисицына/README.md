@@ -1,5 +1,5 @@
 # Лисицына
-- [27: WA 01](27.md)
+- [27: AC](27.md)
 
-Commit: cb29c61450c028bb99f62c2eba91d985154315b2
- fetched at: 20201105-001727
+Commit: 7e6fb034971be322a506ddad8fd8524e8129e4c8
+ fetched at: 20201105-003228
