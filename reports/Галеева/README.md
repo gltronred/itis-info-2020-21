@@ -1,5 +1,5 @@
 # Галеева
-- [27: WA 7](27.md)
+- [27: WA 8](27.md)
 
-Commit: aff7357af9d2322a3a298e3451233fc018709914
- fetched at: 20201105-004714
+Commit: 6e0564dd0b976b2cfd457103e24357a8bbcce30d
+ fetched at: 20201105-010215
