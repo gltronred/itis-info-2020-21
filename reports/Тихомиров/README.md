@@ -1,5 +1,5 @@
 # Тихомиров
-- [27: WA 01](27.md)
+- [27: AC](27.md)
 
-Commit: 191a8480ccf865a2f05f4bb25899c7740a3ac7a1
- fetched at: 20201105-224755
+Commit: 44d74abf92840492621ce39df84af228289caf68
+ fetched at: 20201105-230255

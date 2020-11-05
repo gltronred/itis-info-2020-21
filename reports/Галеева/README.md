@@ -1,5 +1,5 @@
 # Галеева
-- [27: CE](27.md)
+- [27: AC](27.md)
 
-Commit: e6b09146d04f0cce7a459e44f240ebb2c5685a57
- fetched at: 20201105-224715
+Commit: c3ddefca96544827ca1a9ed6b97eacbf895dc5d1
+ fetched at: 20201105-230215

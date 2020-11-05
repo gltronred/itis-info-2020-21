@@ -1,5 +1,5 @@
 # Федорова
-- [27: WA 01](27.md)
+- [27: CE](27.md)
 
-Commit: 445f9a44ca71252d523a5d880680667f4699c120
- fetched at: 20201105-224758
+Commit: a349bcf52530ef21d0f5c141b84cfcb43ee5499c
+ fetched at: 20201105-230258
