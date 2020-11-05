@@ -5,7 +5,7 @@ public class Chair {
     // Поле для хранения ног
     Leg[] legs = new Leg[5];
     boolean back;
-    int armRests;
+    static int armRests;
 
     // Конструктор
     //
@@ -42,6 +42,10 @@ public class Chair {
     // Статический метод - в классе,
     // для всех объектов класса один и тот же
     public static String getName() {
-        return "A chair";
+        return "A chair with " + armRests + " arm rests";
+    }
+
+    public static void setArmRests(int arms) {
+        armRests = arms;
     }
 }

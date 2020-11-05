@@ -7,7 +7,11 @@ public class L16 {
         System.out.println("Say my name: " + Chair.getName());
         Chair chair1 = new Chair(3);
         Chair chair2 = new Chair(4);
+        chair1.setArmRests(3);
         System.out.println("Hello world!");
+        System.out.println(chair1);
+        System.out.println(chair2);
+        chair1.setArmRests(4);
         System.out.println(chair1);
         System.out.println(chair2);
         // Присваивания
