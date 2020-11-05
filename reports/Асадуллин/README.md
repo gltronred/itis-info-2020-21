@@ -1,5 +1,5 @@
 # Асадуллин
-- [27: RE 01](27.md)
+- [27: AC](27.md)
 
-Commit: 46ec19b69a787a7aad2aee1cb9fb6034a2d753ed
- fetched at: 20201105-200207
+Commit: fdf9585a477a3e2eb74c28039e378a9ecb34c9a9
+ fetched at: 20201105-201707
