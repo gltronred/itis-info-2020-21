@@ -1,5 +1,4 @@
 # Столповский
-- [27: AC](27.md)
 
 Commit: b45c4f1af7fabdf628ac3034638892a14aa25053
- fetched at: 20201105-234752
+ fetched at: 20201106-000253
