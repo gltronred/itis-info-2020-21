@@ -1,5 +1,5 @@
 # Мухаев
 - [27: WA 01](27.md)
 
-Commit: ddaad7a42ea96590d1aafd9b35d847dc11503019
- fetched at: 20201105-110235
+Commit: de91fad934c468e8c3c1b8c118dcdd11c96acc7a
+ fetched at: 20201105-111735
