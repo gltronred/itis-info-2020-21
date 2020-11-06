@@ -1,5 +1,5 @@
 # Столповский
 - [28: NA](28.md)
 
-Commit: 74bb84a843d910e23b9027456b7f1fa99dea6c25
- fetched at: 20201106-211751
+Commit: 33e2e90ed3468ef994fd431c8257952f1f165d9a
+ fetched at: 20201106-213311
