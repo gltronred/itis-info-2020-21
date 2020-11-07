@@ -1,5 +1,5 @@
 # Зайнуллина
-- [28: NA](28.md)
+- [28: AC](28.md)
 
-Commit: c832165822d6fe4d709ba8d49a33791bb829d828
- fetched at: 20201107-194722
+Commit: a1ed70fbb8a81d89b1b85005a685cd1005b51f67
+ fetched at: 20201107-200224
