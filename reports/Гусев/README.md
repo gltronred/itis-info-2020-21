@@ -1,5 +1,5 @@
 # Гусев
 - [28: NA](28.md)
 
-Commit: afa0ea74cf6a14bb5a22ba37a0e88c1b31fa43f9
- fetched at: 20201107-121721
+Commit: 404fbf46465e5023427e19c4fcf4ee015cbf1ee7
+ fetched at: 20201107-123221

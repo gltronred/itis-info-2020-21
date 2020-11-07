@@ -1,5 +1,5 @@
 # Мартазова
-- [28: NA](28.md)
+- [28: AC](28.md)
 
-Commit: a50e9513800eb92a8e2fa77be3767c1234be4ac8
- fetched at: 20201107-121734
+Commit: 5f7fe4d04b8c034e21e6ba454acded3793546f85
+ fetched at: 20201107-123235
