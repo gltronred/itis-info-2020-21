@@ -1,5 +1,5 @@
 # Макарова
-- [28: NA](28.md)
+- [28: WA 4](28.md)
 
-Commit: f9c5d82d9d9157980f9f32d9418a253d488144bb
- fetched at: 20201108-191731
+Commit: af7956a6445ef9b1a2fbbc02888490fd006d76cb
+ fetched at: 20201108-193231
