@@ -1,5 +1,5 @@
 # Гусев
 - [28: AC](28.md)
 
-Commit: debd13db63dae0c0f6f650cb580a7cc2346d8921
- fetched at: 20201108-223220
+Commit: d7044195ab99d330ea31776c78209e729fa770bb
+ fetched at: 20201108-224720
