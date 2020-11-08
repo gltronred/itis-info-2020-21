@@ -1,5 +1,5 @@
 # Хусаенов
-- [28: NA](28.md)
+- [28: CE](28.md)
 
-Commit: 536cf32b4567d2418cf068f97c7b490b267d4e0c
- fetched at: 20201108-143305
+Commit: cb7e9b26e22b461c1a57410d0dfa023843f80f7f
+ fetched at: 20201108-144805
