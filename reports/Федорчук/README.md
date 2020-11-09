@@ -1,5 +1,5 @@
 # Федорчук
-- [28: NA](28.md)
+- [28: AC](28.md)
 
-Commit: 8e461356da1f31123abf5979d29cf0e0784fcdbd
- fetched at: 20201109-193309
+Commit: deaf394b65b2bfb939fee99314605b03b9fb2d26
+ fetched at: 20201109-194812
