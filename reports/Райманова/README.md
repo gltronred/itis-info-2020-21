@@ -1,5 +1,5 @@
 # Райманова
-- [28: NA](28.md)
+- [28: AC](28.md)
 
-Commit: 1b65f32f4a89063ac8ed620cf8621c8b4762e4ac
- fetched at: 20201109-153244
+Commit: cc02eed318db2f124893b2e6dcc3548996df2ace
+ fetched at: 20201109-154744
