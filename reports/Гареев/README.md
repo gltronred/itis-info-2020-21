@@ -1,5 +1,5 @@
 # Гареев
 - [28: NA](28.md)
 
-Commit: 9bca62eaace9636fd716339d2d3b71a898db2beb
- fetched at: 20201109-130217
+Commit: 852d8d5585791bdd29f136ea06051ceacca48430
+ fetched at: 20201109-131717
