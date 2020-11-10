@@ -1,5 +1,5 @@
 # Прамзелев
-- [28: NA](28.md)
+- [28: WA 01](28.md)
 
-Commit: 93a7ec834bd2c61d95fa11df1ab1a7feb309e544
- fetched at: 20201110-223240
+Commit: 4e8d2f763db16db829656be56f72905abeaa8e04
+ fetched at: 20201110-224742
