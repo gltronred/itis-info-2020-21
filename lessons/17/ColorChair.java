@@ -24,4 +24,8 @@ public class ColorChair extends Chair {
             return "white";
         return "unknown";
     }
+
+    public String toString() {
+        return "A color chair with color: " + getColor();
+    }
 }
