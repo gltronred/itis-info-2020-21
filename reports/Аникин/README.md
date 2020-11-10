@@ -1,5 +1,5 @@
 # Аникин
-- [28: NA](28.md)
+- [28: WA 4](28.md)
 
-Commit: 289512cd3da9b6b79d0f9cc23069bf3f51feae45
- fetched at: 20201110-221704
+Commit: cc718559fdb5bb3fd88461f1e80df05d9677739f
+ fetched at: 20201110-223204
