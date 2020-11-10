@@ -1,5 +1,5 @@
 # Тихомиров
 - [28: AC](28.md)
 
-Commit: ed80e4b74dd293f64bab95be0cf1a62ef710aba7
- fetched at: 20201110-141755
+Commit: 071d8ad511cd5bc55f505a20dc1c9968877f056d
+ fetched at: 20201110-143254
