@@ -797,3 +797,23 @@ c.getCurrent(); // 6
 c.decrease(3);
 c.getCurrent(); // 3
 ```
+
+## 2020-11-10
+
+Дедлайн: 2020-11-17
+
+### 29
+
+Написать `LimitedCounter`, который наследует `Counter`, у которого есть:
+- конструктор `LimitedCounter(int limit)`:
+  задаёт ограничение `limit` и начальное значение 0
+- метод `int getLimit()`, который возвращает  текущий лимит
+- метод `void setLimit(int limit)`, который устанавливает лимит
+- метод `void increase()`, который увеличивает на единицу, если текущее значение меньше лимита
+
+```
+Counter c = new LimitedCounter(2); // 0
+c.increase(); // 1
+c.increase(); // 2
+c.increase(); // 2
+```
