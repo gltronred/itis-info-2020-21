@@ -1,5 +1,5 @@
 # Коротаев
 - [28: AC](28.md)
 
-Commit: 66ee3f6881144880ec6e5bb7891ff2a760b97620
- fetched at: 20201110-193228
+Commit: 8d65f051dcebbc0da2d222175c4112a4adb3ae5b
+ fetched at: 20201110-194726
