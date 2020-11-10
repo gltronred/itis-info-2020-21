@@ -20,6 +20,14 @@ public class Chair {
         System.out.println("Created a chair with " + legs + " legs");
     }
 
+    public Chair() {
+        this.legs = new Leg[3];
+        for (int i = 0; i<3; i++) {
+            this.legs[i] = new Leg();
+        }
+        System.out.println("Created a chair with default constructor");
+    }
+
     public void addLeg() {
         // legsCount++;
     }
