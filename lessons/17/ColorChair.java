@@ -7,6 +7,13 @@ public class ColorChair extends Chair {
     int green;
     int blue;
 
+    public ColorChair(int r, int g, int b) {
+        super(4);
+        red = r;
+        green = g;
+        blue = b;
+    }
+
     public void setColor(int r, int g, int b) {
         red = r;
         green = g;
@@ -26,6 +33,6 @@ public class ColorChair extends Chair {
     }
 
     public String toString() {
-        return "A color chair with color: " + getColor();
+        return super.toString() + "; color: " + getColor();
     }
 }
