@@ -1,6 +1,6 @@
 # Гусев
 - [28: AC](28.md)
-- [29: NA](29.md)
+- [29: CE](29.md)
 
-Commit: d7044195ab99d330ea31776c78209e729fa770bb
- fetched at: 20201111-193227
+Commit: 9f26ef9e155ba0a91a3c113d1d3e9fd1e13d34f5
+ fetched at: 20201111-194721
