@@ -1,5 +1,5 @@
 # Столповский
 - [28: AC](28.md)
 
-Commit: 988986f73e3ccbf1077ca8eaca29738fa52f66ba
- fetched at: 20201111-110250
+Commit: e5ea2dd5bafc4ebdf0c00bad9b8580ec0641e5c3
+ fetched at: 20201111-111751
