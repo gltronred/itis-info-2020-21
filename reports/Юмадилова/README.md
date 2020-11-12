@@ -1,6 +1,6 @@
 # Юмадилова
-- [28: NA](28.md)
+- [28: AC](28.md)
 - [29: NA](29.md)
 
-Commit: 37acca6fa349dfa2bd851d68b7bb0562d1c7dc9f
- fetched at: 20201112-210312
+Commit: 78a9bf34f3d4b6e3b20523e244369022df4987a1
+ fetched at: 20201112-211816

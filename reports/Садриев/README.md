@@ -1,6 +1,6 @@
 # Садриев
-- [28: NA](28.md)
+- [28: AC](28.md)
 - [29: NA](29.md)
 
-Commit: 7fd3d58837b495137ad6a705e3cc325c432f9e77
- fetched at: 20201112-210251
+Commit: 54edbca49351584535b5bca24dc7f8de1456dce7
+ fetched at: 20201112-211752
