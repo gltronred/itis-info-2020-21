@@ -1,6 +1,6 @@
 # Асфандьяров
-- [28: CE](28.md)
+- [28: AC](28.md)
 - [29: NA](29.md)
 
-Commit: 7326107a75156ebf9020f36cb4327b6a3d702097
- fetched at: 20201112-160210
+Commit: dcaac96d9c92242ec5ab6168a68e4d5f2eaf676f
+ fetched at: 20201112-161710
