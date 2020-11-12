@@ -1,6 +1,5 @@
 # Гусев
-- [28: AC](28.md)
 - [29: CE](29.md)
 
 Commit: 36ebd60a2bfd289c23136ecb5956a95117340b17
- fetched at: 20201112-234720
+ fetched at: 20201113-000219

@@ -1,6 +1,5 @@
 # Мухаев
-- [28: AC](28.md)
 - [29: CE](29.md)
 
 Commit: ca240c4b4aea324b907a753280552d847b72d9cb
- fetched at: 20201112-234735
+ fetched at: 20201113-000234
