@@ -1,5 +1,5 @@
 # Зайнуллина
-- [29: WA 01](29.md)
+- [29: AC](29.md)
 
-Commit: f8ad680f86e37ecb46499eb2565e3bd3c152f88b
- fetched at: 20201114-160223
+Commit: c7187bf02fe4ecd2530ba564de681daefc04b2c7
+ fetched at: 20201114-161724
