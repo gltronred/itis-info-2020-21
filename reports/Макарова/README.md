@@ -1,5 +1,5 @@
 # Макарова
 - [29: CE](29.md)
 
-Commit: 11327236501130b83b043466e140197ec489336c
- fetched at: 20201114-221731
+Commit: 6e7fe307230ed2db21bfbeb7c46f67c7f59658cb
+ fetched at: 20201114-223232
