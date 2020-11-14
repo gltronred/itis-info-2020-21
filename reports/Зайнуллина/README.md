@@ -1,5 +1,5 @@
 # Зайнуллина
-- [29: NA](29.md)
+- [29: CE](29.md)
 
-Commit: a1ed70fbb8a81d89b1b85005a685cd1005b51f67
- fetched at: 20201114-144723
+Commit: a3c096b67ddc874763aeceaa82f74d72746cd4e7
+ fetched at: 20201114-150223

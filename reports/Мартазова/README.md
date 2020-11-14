@@ -1,5 +1,5 @@
 # Мартазова
-- [29: WA 01](29.md)
+- [29: CE](29.md)
 
-Commit: 4751fbae97f79e4de37d3f8f5bd98d9d0c14b35a
- fetched at: 20201114-144734
+Commit: 6703c6ebe8be92ca312123d08ff9c7e466fe06a9
+ fetched at: 20201114-150235
