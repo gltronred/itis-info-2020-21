@@ -1,5 +1,5 @@
 # Столповский
-- [29: NA](29.md)
+- [29: CE](29.md)
 
-Commit: e5ea2dd5bafc4ebdf0c00bad9b8580ec0641e5c3
- fetched at: 20201114-190254
+Commit: 449a1a9105ad0cb188e027e286ad74ecc436f755
+ fetched at: 20201114-191755
