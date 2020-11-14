@@ -1,5 +1,5 @@
 # Аникин
-- [29: WA 2](29.md)
+- [29: CE](29.md)
 
-Commit: 522c10129a3d34e00995234ae7a8a887bf1b37e7
- fetched at: 20201114-171705
+Commit: 9cacdbb4675e614be20765affbb1ae4d079b2c60
+ fetched at: 20201114-173204
