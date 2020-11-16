@@ -1,5 +1,5 @@
 # Юмадилова
 - [29: CE](29.md)
 
-Commit: b36d76998886db4184d8c898f469de309d04a7af
- fetched at: 20201117-010312
+Commit: 987fdd134605f4f56a428ce772eae62568c41c01
+ fetched at: 20201117-011814
