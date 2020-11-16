@@ -1,5 +1,5 @@
 # Белесова
 - [29: CE](29.md)
 
-Commit: 72cda67ea82f2c353091a623206dabf87332ef5c
- fetched at: 20201117-003212
+Commit: 972d313b7dc6ea8dc0a9d547e5e448e16d9fe6d7
+ fetched at: 20201117-004713
