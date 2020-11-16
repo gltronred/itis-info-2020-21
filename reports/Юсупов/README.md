@@ -1,5 +1,5 @@
 # Юсупов
-- [29: NA](29.md)
+- [29: AC](29.md)
 
-Commit: ff80ac5a05077bf0bd6ac90410c126680eacb14a
- fetched at: 20201116-173317
+Commit: db7ddd5280d117c80280b77680a7d36d69f3cf24
+ fetched at: 20201116-174816
