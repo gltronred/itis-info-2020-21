@@ -1,5 +1,5 @@
 # Нурисламова
-- [29: NA](29.md)
+- [29: CE](29.md)
 
-Commit: 2a1049cf2918f356a3f955d3aab8e9db4955de61
- fetched at: 20201116-201740
+Commit: 65d09d1a28b41eb6c70ae66b1ba2145ede7358f8
+ fetched at: 20201116-203240
