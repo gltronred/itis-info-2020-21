@@ -1,5 +1,5 @@
 # Садриев
 - [29: CE](29.md)
 
-Commit: 0c75f37c1117d04de7dc6b53a027550cf154a620
- fetched at: 20201117-193252
+Commit: 6fd9d47ffe521af112ba73affe58076e12b15252
+ fetched at: 20201117-194751
