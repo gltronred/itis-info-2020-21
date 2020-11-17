@@ -1,5 +1,5 @@
 # Асфандьяров
 - [29: AC](29.md)
 
-Commit: 83074ec9da277920c5d9220ef884288ef62c5216
- fetched at: 20201117-191710
+Commit: beb1cab1a37ef90a110da46a970c8de0597d4ec9
+ fetched at: 20201117-193210
