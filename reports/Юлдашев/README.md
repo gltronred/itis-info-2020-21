@@ -1,5 +1,5 @@
 # Юлдашев
-- [29: NA](29.md)
+- [29: CE](29.md)
 
-Commit: be77412adc7d7f457eee5aa18707abe07f44bdec
- fetched at: 20201117-110312
+Commit: 75a9ff7ec7f3e3cc48d16027a87fd07652894b70
+ fetched at: 20201117-111813
