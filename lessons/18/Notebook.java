@@ -1,5 +1,5 @@
-public class Notebook implements Pressable, Nameable {
-    public String getName() { return "Notebook"; }
+
+public abstract class Notebook implements Pressable, Nameable {
     public String press(int key) {
         return getName() + " key " + key + " pressed";
     }
