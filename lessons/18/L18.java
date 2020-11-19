@@ -5,8 +5,8 @@ public class L18 {
         p[1] = new Notebook();
         p[2] = new Thinkpad();
 
-        for (int i = 0; i < p.length; i++) {
-            Pressable item = p[i];
+        // проход по всем элементам
+        for (Pressable item : p) {
             for (int j = 0; j < item.getKeyCount(); j++) {
                 System.out.println(item.press(j));
             }
