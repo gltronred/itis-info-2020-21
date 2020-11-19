@@ -1,0 +1,4 @@
+
+interface Nameable {
+    String getName();
+}

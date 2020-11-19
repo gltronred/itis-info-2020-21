@@ -1,6 +1,7 @@
-public class Notebook implements Pressable {
+public class Notebook implements Pressable, Nameable {
+    public String getName() { return "Notebook"; }
     public String press(int key) {
-        return "Notebook key " + key + " pressed";
+        return getName() + " key " + key + " pressed";
     }
     public int getKeyCount() {
         return 10;
