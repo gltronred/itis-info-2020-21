@@ -1,5 +1,5 @@
 # Столповский
-- [30: CE](30.md)
+- [30: WA 01](30.md)
 
-Commit: a4fc7bdeb01ff6df50c23741fb8f1929f9566b6c
- fetched at: 20201120-230258
+Commit: b721409da05cb0a02c9b0557f9fe8cda493c7591
+ fetched at: 20201120-231758
