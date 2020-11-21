@@ -1,5 +1,5 @@
 # Макарова
-- [30: CE](30.md)
+- [30: AC](30.md)
 
-Commit: 09c8377cc96e9828f1277e8a224f08c4705726fe
- fetched at: 20201121-171733
+Commit: f27e51848a62b5a340fd1ba35fc37b2dcc27c77e
+ fetched at: 20201121-173234
