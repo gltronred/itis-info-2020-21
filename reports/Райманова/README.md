@@ -1,5 +1,5 @@
 # Райманова
-- [30: NA](30.md)
+- [30: CE](30.md)
 
-Commit: 48d07bf1d7ac24ffc14dc7f9504a4b77ee2ee219
- fetched at: 20201121-154748
+Commit: 0bca7e279bd1492ecda0a93c8eb7a30af8c11596
+ fetched at: 20201121-160248
