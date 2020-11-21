@@ -1,5 +1,5 @@
 # Столповский
 - [30: AC](30.md)
 
-Commit: 09a71fe372573e54946503c6d618ec5c360999c3
- fetched at: 20201121-183255
+Commit: 6cb724870f2226a65e40e40fba880dda588e2bb7
+ fetched at: 20201121-184755
