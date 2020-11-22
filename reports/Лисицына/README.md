@@ -1,5 +1,5 @@
 # Лисицына
-- [30: NA](30.md)
+- [30: AC](30.md)
 
-Commit: e3f9335b5015c3df24fc0225ed37f20addf71ba8
- fetched at: 20201122-233230
+Commit: e001093ed21ceb9cd84e4dfadfb6827e6ec317cc
+ fetched at: 20201122-234729
