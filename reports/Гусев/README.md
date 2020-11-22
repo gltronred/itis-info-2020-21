@@ -1,5 +1,5 @@
 # Гусев
-- [30: NA](30.md)
+- [30: AC](30.md)
 
-Commit: 5e040902beb3f6fceeaa83f0d875ae075fd75ce0
- fetched at: 20201122-221721
+Commit: a51d0cd971f0a2d2f0380efe9d397bfb3267ee23
+ fetched at: 20201122-223221
