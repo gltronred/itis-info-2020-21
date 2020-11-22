@@ -1,5 +1,5 @@
 # Коротаев
-- [30: NA](30.md)
+- [30: AC](30.md)
 
-Commit: 049e27bfc60a5342642514a8499772465182f44c
- fetched at: 20201122-171727
+Commit: 6bae5675fad8bd689caebe0a0f2a92b3f6ebfef2
+ fetched at: 20201122-173228
