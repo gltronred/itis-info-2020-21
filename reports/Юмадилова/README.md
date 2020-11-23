@@ -1,5 +1,5 @@
 # Юмадилова
-- [30: NA](30.md)
+- [30: AC](30.md)
 
-Commit: c207ba7b1b68da41ba54048a70085aff21ec6f33
- fetched at: 20201124-001816
+Commit: d3171b659c9a594eeff3672ebb33943243d6601a
+ fetched at: 20201124-003318
