@@ -1,5 +1,5 @@
 # Белесова
 - [30: WA 01](30.md)
 
-Commit: e37344c3d2a4637611f55bffc1f6a363dbe26580
- fetched at: 20201123-213212
+Commit: 552b12c8207cb609c941bcbccb8ce76120579949
+ fetched at: 20201123-214713
