@@ -1,5 +1,5 @@
 # Асадуллин
-- [30: NA](30.md)
+- [30: CE](30.md)
 
-Commit: a0edf73948cf717d512cf14aef6058ef7ddecb68
- fetched at: 20201123-173207
+Commit: 684fc456cfde9ce01bdf19a0ce8fe97e2681d8e7
+ fetched at: 20201123-174708
