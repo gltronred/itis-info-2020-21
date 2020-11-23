@@ -1,5 +1,5 @@
 # Мартазова
-- [30: NA](30.md)
+- [30: CE](30.md)
 
-Commit: 280344b081959a36d4315f38ecffb2572f67ac72
- fetched at: 20201123-231735
+Commit: 241ad61fca245ebd40d261f48f286a0a1981d9f5
+ fetched at: 20201123-233236
