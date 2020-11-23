@@ -1,5 +1,5 @@
 # Белесова
-- [30: CE](30.md)
+- [30: AC](30.md)
 
-Commit: 4092778c49d98389ced4753e94ef8244cec8203c
- fetched at: 20201123-221711
+Commit: 46f10c3b268157542cf0220377adaf6f0352b7a1
+ fetched at: 20201123-223213
