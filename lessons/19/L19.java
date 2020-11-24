@@ -26,7 +26,8 @@ public class L19 {
         }
         // Проходимся по всем "символам" строки
         for (int i = 0; i < n; i++) {
-            // соответствующие символы не             if (a.charAt(i) != b.charAt(i)) {
+            // соответствующие символы не равны
+            if (a.charAt(i) != b.charAt(i)) {
                 return (a.charAt(i) < b.charAt(i));
             }
         }
