@@ -1,5 +1,5 @@
 # Зайнуллина
-- [30: CE](30.md)
+- [30: AC](30.md)
 
-Commit: fdc098919cdae4500f61f6d70ad9c7fd5e7bb6ba
- fetched at: 20201124-101723
+Commit: b4c6e9657ed130c947cc0c8ad7b0f9add206f4f8
+ fetched at: 20201124-103223
