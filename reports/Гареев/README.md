@@ -1,5 +1,5 @@
 # Гареев
 - [30: AC](30.md)
 
-Commit: 8d5ae98b4d434f0df9b971013e93d134948fb520
- fetched at: 20201124-200220
+Commit: c08cd1aa823f836a8f84f8d9c9345182df996713
+ fetched at: 20201124-201718

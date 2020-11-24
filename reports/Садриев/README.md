@@ -1,5 +1,5 @@
 # Садриев
-- [30: NA](30.md)
+- [30: AC](30.md)
 
-Commit: d0c2bfd7b07dc2bf767deeb22670accce4a74e90
- fetched at: 20201124-200256
+Commit: a6f3fc7ab85426899f133d9e7dabcda5b1085840
+ fetched at: 20201124-201751
