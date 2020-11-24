@@ -26,13 +26,9 @@ public class L19 {
         }
         // Проходимся по всем "символам" строки
         for (int i = 0; i < n; i++) {
-            // символ меньше в a
-            if (a.charAt(i) < b.charAt(i)) {
-                return true;
-            }
-            // символ меньше в b
-            if (a.charAt(i) > b.charAt(i)) {
-                return false;
+            // соответствующие символы не равны
+            if (a.charAt(i) != b.charAt(i)) {
+                return (a.charAt(i) < b.charAt(i));
             }
         }
         // Дошли до конца строки,
