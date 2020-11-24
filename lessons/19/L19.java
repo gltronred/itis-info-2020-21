@@ -19,6 +19,25 @@ public class L19 {
         System.out.println(less("аббат","аббатство"));
     }
     public static boolean less(String a, String b) {
-        return false;
+        // Пусть n - длина более короткой строки
+        int n = a.length();
+        if (n > b.length()) {
+            n = b.length();
+        }
+        // Проходимся по всем "символам" строки
+        for (int i = 0; i < n; i++) {
+            // символ меньше в a
+            if (a.charAt(i) < b.charAt(i)) {
+                return true;
+            }
+            // символ меньше в b
+            if (a.charAt(i) > b.charAt(i)) {
+                return false;
+            }
+        }
+        // Дошли до конца строки,
+        // все символы были одинаковы.
+        // Сравниваем длину
+        return (a.length() < b.length());
     }
 }
