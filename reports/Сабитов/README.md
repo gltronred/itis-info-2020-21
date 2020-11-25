@@ -1,7 +1,7 @@
 # Сабитов
 - [30: AC](30.md)
 - [31: AC](31.md)
-- [32: NA](32.md)
+- [32: AC](32.md)
 
-Commit: ca939b90e04aca3e3bb5b705ccc90128d338d309
- fetched at: 20201125-230245
+Commit: 897a2d9a2ed2af2e6a2707ccbc7b1e43d5ff769e
+ fetched at: 20201125-231745
