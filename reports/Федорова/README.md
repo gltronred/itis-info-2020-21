@@ -1,7 +1,7 @@
 # Федорова
-- [30: NA](30.md)
+- [30: AC](30.md)
 - [31: NA](31.md)
 - [32: NA](32.md)
 
-Commit: 319408c890f7d212d212fc06299f83148e6e3e38
- fetched at: 20201125-190257
+Commit: 6332a6b0defad54bce3ea028b4472d5097ec9302
+ fetched at: 20201125-191758
