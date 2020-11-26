@@ -894,3 +894,29 @@ p.getCount('z') == 0
 p.getCount('C') == 0
 p.getCount('я') == 0
 ```
+
+## 2020-11-26
+
+Дедлайн: 2020-12-03
+
+### 33
+
+Написать статический метод `int countCapitals(String s)`, который возвращает, сколько слов в строке `s` начинаются с заглавной буквы.
+
+Заглавной буквой считается символ (Character) типа `UPPERCASE_LETTER` или типа `TITLECASE_LETTER`. Словом считается последовательность букв или цифр, разделённых одним или несколькими пробельными символами (whitespace), знаками (symbol) или знаками пунктуации (punctuation).
+
+```
+P33.countCapitals("Hello,My dear friends!Here—Words beginning with Ćapital ŁeTtErS") == 6
+```
+
+### 34
+
+Написать статический метод `void replace(String s, StringBuilder b)`, который добавляет в `b` все символы из строки `s`, заменяя последовательность `Trump` на `Biden` (в такой капитализации) и `вики` на `энцикло` (сохраняя капитализацию первой буквы).
+
+```
+StringBuilder sb = new StringBuilder();
+P34.replace("Wikipedia says that Trump is the President. Викинги грабили википедию и получился мем", sb);
+// sb.toString() == "Wikipedia says that Biden is the President. Энциклонги грабили энциклопедию и получился мем"
+```
+
+Использовать только методы классов String, StringBuilder.
