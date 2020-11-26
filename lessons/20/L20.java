@@ -15,6 +15,10 @@ public class L20 {
         }
         return count;
     }
+    public static String dateToString(int yyyy, int mm, int dd) {
+        StringBuilder sb = new StringBuilder();
+        return sb.toString();
+    }
     public static void main(String[] args) {
         String[] strings = {
             "Hello world",
@@ -34,5 +38,8 @@ public class L20 {
             System.out.println(s);
             System.out.println("---------" + countWords(s));
         }
+        System.out.println(dateToString(2020,11,26)); // "26.11.2020"
+        System.out.println(dateToString(2020,6,1));   //  "1.06.2020"
+        System.out.println(dateToString(2020,10,20)); // "20.10.2020"
     }
 }
