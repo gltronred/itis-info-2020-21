@@ -1,7 +1,7 @@
 # Хасанова
-- [30: NA](30.md)
+- [30: AC](30.md)
 - [31: NA](31.md)
 - [32: NA](32.md)
 
-Commit: 108813c113748650dc8f767e3b12547a4bbb1235
- fetched at: 20201126-214804
+Commit: ca283b6ace8d0f1144d676b86b0c18086f6297eb
+ fetched at: 20201126-220305
