@@ -1,7 +1,6 @@
 # Аникин
-- [30: WA 01](30.md)
 - [31: NA](31.md)
 - [32: NA](32.md)
 
-Commit: d4a6f8a194a990935468f57f2fa44144f3e69877
- fetched at: 20201126-234704
+Commit: adbb9e67e388a6dab6b7a900c9b20c9424863564
+ fetched at: 20201127-000204
