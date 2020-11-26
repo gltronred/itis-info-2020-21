@@ -1,6 +1,20 @@
 import java.util.*;
 
 public class L20 {
+    public static int countWords(String s) {
+        boolean hadSpace = true;
+        int count = 0;
+        for (int i=0; i<s.length(); i++) {
+            if (Character.isLetter(s.charAt(i)) && hadSpace) {
+                count++;
+                hadSpace = false;
+            }
+            if (Character.isWhitespace(s.charAt(i))) {
+                hadSpace = true;
+            }
+        }
+        return count;
+    }
     public static void main(String[] args) {
         String[] strings = {
             "Hello world",
@@ -18,7 +32,7 @@ public class L20 {
         };
         for (String s : strings) {
             System.out.println(s);
-            System.out.println("---------");
+            System.out.println("---------" + countWords(s));
         }
     }
 }
