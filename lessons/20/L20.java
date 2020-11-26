@@ -17,6 +17,14 @@ public class L20 {
     }
     public static String dateToString(int yyyy, int mm, int dd) {
         StringBuilder sb = new StringBuilder();
+        sb.append(dd);
+        sb.append('.');
+        if (mm < 10) {
+            sb.append('0');
+        }
+        sb.append(mm);
+        sb.append(".");
+        sb.append(yyyy);
         return sb.toString();
     }
     public static void main(String[] args) {
