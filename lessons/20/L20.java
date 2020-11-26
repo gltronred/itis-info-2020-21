@@ -13,8 +13,8 @@ public class L20 {
             "Thisisoneword",
             "Hello\u200bworld!",
             "Hello\u200cworld!",
-            "Helló, világ - magyar",
-            "One\u00a0two\u205fthree\u2000four"
+            "Helló, világ - magyar", // three, if you check that word contains letters :)
+            "One\u00a0two\u205fthree\u2000four" // three words - because Java thinks that \u00a0 (NBSP) is not whitespace
         };
         for (String s : strings) {
             System.out.println(s);
