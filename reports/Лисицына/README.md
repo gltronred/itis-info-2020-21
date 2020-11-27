@@ -1,6 +1,6 @@
 # Лисицына
 - [31: AC](31.md)
-- [32: NA](32.md)
+- [32: AC](32.md)
 
-Commit: e6b7f8137f8244e5c4e85db50f6857fe28849e8e
- fetched at: 20201127-234727
+Commit: f77af823929fcd3df37a10d509a871fcdf1d969b
+ fetched at: 20201128-000227
