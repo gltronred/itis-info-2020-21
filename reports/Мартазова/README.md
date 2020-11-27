@@ -1,6 +1,6 @@
 # Мартазова
 - [31: AC](31.md)
-- [32: NA](32.md)
+- [32: AC](32.md)
 
-Commit: 6aa1ca28d921b45f3a0c08260413fc2514ad1487
- fetched at: 20201127-191736
+Commit: 92aedb51faa3040c14ed792a3e625504dc84f577
+ fetched at: 20201127-193237
