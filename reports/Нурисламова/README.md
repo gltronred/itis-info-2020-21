@@ -1,6 +1,6 @@
 # Нурисламова
-- [31: NA](31.md)
+- [31: AC](31.md)
 - [32: NA](32.md)
 
-Commit: 3597c97dadeae417470dd76dab3739e9fbe3646e
- fetched at: 20201127-134738
+Commit: 0c5dfefaf0aa6aef853c3dfa63b537b2acb8d525
+ fetched at: 20201127-140238
