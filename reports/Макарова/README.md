@@ -1,6 +1,8 @@
 # Макарова
 - [31: AC](31.md)
 - [32: WA 2](32.md)
+- [33: NA](33.md)
+- [34: NA](34.md)
 
-Commit: 22052ea36b21c990710b54e55c761c72428e9b0b
- fetched at: 20201128-164732
+Commit: a7e27998eacad9f2b97bd5b96b445c2a422ce4b6
+ fetched at: 20201128-170232
