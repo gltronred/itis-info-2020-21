@@ -1,8 +1,8 @@
 # Столповский
 - [31: AC](31.md)
 - [32: AC](32.md)
-- [33: WA 6](33.md)
+- [33: WA 2](33.md)
 - [34: AC](34.md)
 
-Commit: 64854cf1e6a6b1704562241f07a54419c05e0f57
- fetched at: 20201130-163256
+Commit: 62831efca8becb9fda7294a7ad645facfe0a06ff
+ fetched at: 20201130-164756
