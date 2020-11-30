@@ -1,8 +1,8 @@
 # Юлдашев
-- [31: NA](31.md)
+- [31: AC](31.md)
 - [32: NA](32.md)
 - [33: NA](33.md)
 - [34: NA](34.md)
 
-Commit: 204c4597dc2b2a1b4c744a13487e2811872688b9
- fetched at: 20201130-233310
+Commit: 9f7f5b3e37fa9a47118413a4c2d3145bea3733e4
+ fetched at: 20201130-234813
