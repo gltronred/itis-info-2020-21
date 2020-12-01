@@ -1,10 +1,8 @@
 # Прамзелев
-- [31: NA](31.md)
-- [32: NA](32.md)
 - [33: NA](33.md)
 - [34: NA](34.md)
 - [35: NA](35.md)
 - [36: NA](36.md)
 
-Commit: 0e896f017dac77371840bde107e35b3f293a110a
- fetched at: 20201201-234744
+Commit: 2cb556ceeb6526dc72659a7800522ef9d9efd54e
+ fetched at: 20201202-000244
