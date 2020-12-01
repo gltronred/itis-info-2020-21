@@ -1,5 +1,7 @@
 import java.util.*;
 import java.util.regex.*;
+// (\.\d+)|(\d+((\.\d*)|(\.?)))
+// (\d*\.?\d+)|(\d+\.?\d*)
 
 public class L21 {
     public static void main(String[] args) {
