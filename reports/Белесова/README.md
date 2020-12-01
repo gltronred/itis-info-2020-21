@@ -3,6 +3,8 @@
 - [32: AC](32.md)
 - [33: WA 6](33.md)
 - [34: AC](34.md)
+- [35: NA](35.md)
+- [36: NA](36.md)
 
 Commit: 87115bda2a3de63a9e160243eb76377a2c7011ef
- fetched at: 20201201-193216
+ fetched at: 20201201-194714
