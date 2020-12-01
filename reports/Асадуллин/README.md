@@ -1,10 +1,10 @@
 # Асадуллин
 - [31: AC](31.md)
-- [32: CE](32.md)
+- [32: RE 01](32.md)
 - [33: NA](33.md)
 - [34: NA](34.md)
 - [35: NA](35.md)
 - [36: NA](36.md)
 
-Commit: bb44abd68f91ccb76723b4dfcc8e30743e08846e
- fetched at: 20201201-233207
+Commit: d927655288bb1d861622f86f9840c75fd49db071
+ fetched at: 20201201-234707
