@@ -2,7 +2,7 @@
 - [31: AC](31.md)
 - [32: AC](32.md)
 - [33: CE](33.md)
-- [34: NA](34.md)
+- [34: AC](34.md)
 
-Commit: 7a63d9244d2daa14ff58947edccd6161fde248b0
- fetched at: 20201201-183314
+Commit: 2c7e9dcebf0bfbd20a82ad06dfd95d1276e2230f
+ fetched at: 20201201-184810
