@@ -1,8 +1,8 @@
 # Юлдашев
-- [33: CE](33.md)
+- [33: AC](33.md)
 - [34: AC](34.md)
 - [35: NA](35.md)
 - [36: NA](36.md)
 
-Commit: 9aa1e32d466cf4f42028f5e968121128319df53a
- fetched at: 20201202-134829
+Commit: f750917c00d3d61a0c656a1f75625ca75d71dc11
+ fetched at: 20201202-140328
