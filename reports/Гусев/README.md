@@ -1,8 +1,8 @@
 # Гусев
 - [33: AC](33.md)
 - [34: AC](34.md)
-- [35: NA](35.md)
-- [36: NA](36.md)
+- [35: WA 18](35.md)
+- [36: WA 28](36.md)
 
-Commit: b9ded80c5a1de6ea83a1941e24a2e1a824855f01
- fetched at: 20201202-201726
+Commit: de2647561e6d771e6773b913ab95c0739f0585a5
+ fetched at: 20201202-203221
