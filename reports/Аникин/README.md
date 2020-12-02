@@ -1,8 +1,8 @@
 # Аникин
-- [33: RE 01](33.md)
-- [34: NA](34.md)
+- [33: WA 6](33.md)
+- [34: AC](34.md)
 - [35: NA](35.md)
 - [36: NA](36.md)
 
-Commit: bfb907579ea080b09b0107c90a74b8cc0ea46b28
- fetched at: 20201202-173205
+Commit: 5fcd6f12837ea3d95fe6de987555864ed840736e
+ fetched at: 20201202-174704
