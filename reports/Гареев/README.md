@@ -1,8 +1,8 @@
 # Гареев
-- [33: CE](33.md)
-- [34: NA](34.md)
+- [33: AC](33.md)
+- [34: AC](34.md)
 - [35: NA](35.md)
 - [36: NA](36.md)
 
-Commit: 0593d19273ad32534b7bfefd11a8460c516b297c
- fetched at: 20201202-130223
+Commit: a076799ed81648f1ae452690cc5b77305fc60d1f
+ fetched at: 20201202-131721
