@@ -1,8 +1,8 @@
 # Лисицына
-- [33: CE](33.md)
-- [34: NA](34.md)
+- [33: AC](33.md)
+- [34: AC](34.md)
 - [35: NA](35.md)
 - [36: NA](36.md)
 
-Commit: b68d03598a973ae9ed8e8af5fe477b3042cbcbea
- fetched at: 20201202-203229
+Commit: 8d0bd90a0770e903264c3395cd966b2f1e2fd661
+ fetched at: 20201202-204728
