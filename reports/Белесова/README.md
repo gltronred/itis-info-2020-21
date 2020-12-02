@@ -1,8 +1,8 @@
 # Белесова
-- [33: WA 01](33.md)
+- [33: AC](33.md)
 - [34: AC](34.md)
 - [35: NA](35.md)
 - [36: NA](36.md)
 
-Commit: c947e6c3a38e179d0d448be2f2fc7875dcb8d5ad
- fetched at: 20201202-154712
+Commit: 601b68cd35138f97983ab7f4b5d5167286d4398e
+ fetched at: 20201202-160212
