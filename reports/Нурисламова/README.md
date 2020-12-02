@@ -1,8 +1,8 @@
 # Нурисламова
-- [33: WA 6](33.md)
+- [33: AC](33.md)
 - [34: NA](34.md)
 - [35: NA](35.md)
 - [36: NA](36.md)
 
-Commit: 83d988725358f3f6b3f49536a10635edbcc5579a
- fetched at: 20201202-161739
+Commit: 6df212eea3ae4f3cb4cfd057a935b41568c97c0d
+ fetched at: 20201202-163238
