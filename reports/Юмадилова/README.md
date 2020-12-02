@@ -1,8 +1,8 @@
 # Юмадилова
 - [33: AC](33.md)
-- [34: NA](34.md)
+- [34: WA 01](34.md)
 - [35: NA](35.md)
 - [36: NA](36.md)
 
-Commit: d43160a51e9c383f11c7be8510a21bcad4e90874
- fetched at: 20201202-234812
+Commit: 935f1fc319faf1c7e188839d658d28cb8bf29ae5
+ fetched at: 20201203-000311
