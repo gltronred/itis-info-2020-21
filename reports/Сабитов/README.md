@@ -1,8 +1,8 @@
 # Сабитов
-- [33: WA 2](33.md)
+- [33: AC](33.md)
 - [34: AC](34.md)
 - [35: NA](35.md)
 - [36: NA](36.md)
 
-Commit: 19bd62618df66fb4a4ca37dd08a53804ff540c47
- fetched at: 20201203-163250
+Commit: 99952ac38db5a296a91e5374bed390062b6a9b69
+ fetched at: 20201203-164748
