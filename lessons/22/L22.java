@@ -12,10 +12,13 @@ public class L22 {
         };
         for (String s : arr) {
             Matcher m = p.matcher(s);
-            System.out.print(s + " - ");
-            if (m.find()) {
+            System.out.println(s + " - ");
+            boolean b = false;
+            while (m.find()) {
+                b = true;
                 System.out.println(m.group(1));
-            } else {
+            }
+            if (!b) {
                 System.out.println("NO MATCH");
             }
         }
