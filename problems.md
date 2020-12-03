@@ -959,3 +959,48 @@ P36.isTime("24:00:00") == false
 P36.isTime("0:60:00") == false
 P36.isTime("01:23:45") == true
 ```
+
+## 2020-12-03
+
+Дедлайн: 2020-12-10
+
+### 37
+
+На вход подается строка, каждая строка представляет собой двоичный код. 
+
+Правильным кодом называется строка, которая состоит либо только из нулей, либо
+только из единиц, либо нули и единицы в ней чередуются.
+
+Написать статическую функцию `boolean isCorrectCode(String s)`, которая возвращает,
+правильный ли код (использовать matches)
+
+```
+P37.isCorrectCode("010101") == true
+P37.isCorrectCode("0110") == false
+P37.isCorrectCode("11") == true
+P37.isCorrectCode("001") == false
+P37.isCorrectCode("00") == true
+P37.isCorrectCode("11101") == false
+P37.isCorrectCode("101") == true
+P37.isCorrectCode("") == true
+P37.isCorrectCode("00110011") == false
+```
+
+### 38
+
+На вход подаётся строка, в которой есть слова "google" (с разным количеством букв "o": "gooogle", "gooooogle", количество букв "o" не меньше 2).
+
+Вам нужно написать статическую функцию `int countGoogleProduct(String s)`, которая возвращает произведение количеств букв "o" во всех словах "google", "gooogle", ...
+
+Гарантируется, что ответ будет не больше `2*10^9`.
+
+```
+P38.countGoogleProduct("google gooogle") == 6 == 2*3
+P38.countGoogleProduct("google gogle gooogle gooogle") == 18 == 2*3*3
+P38.countGoogleProduct("microsoft gogle") == 1
+P38.countGoogleProduct("microsoft amazon facebooooook") == 1
+P38.countGoogleProduct("googleing") == 1
+P38.countGoogleProduct("googlee") == 1
+P38.countGoogleProduct("  google   google  ") == 4 == 2*2
+P38.countGoogleProduct("googlegoogle") == 1
+```
