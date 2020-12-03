@@ -3,7 +3,7 @@ import java.util.regex.*;
 
 public class L22 {
     public static void main(String[] args){
-        Pattern p = Pattern.compile("");
+        Pattern p = Pattern.compile("(\\d{4}) ?г\\.");
         String[] arr = {
             "Прошлый, 2020 г., был непростой, а составной",
             "Документ составлен 1 марта 1995г.",
@@ -11,7 +11,13 @@ public class L22 {
             "А здесь года нет"
         };
         for (String s : arr) {
-            System.out.println(s + " - ");
+            Matcher m = p.matcher(s);
+            System.out.print(s + " - ");
+            if (m.find()) {
+                System.out.println(m.group(1));
+            } else {
+                System.out.println("NO MATCH");
+            }
         }
     }
 }
