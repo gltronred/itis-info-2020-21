@@ -1,8 +1,8 @@
 # Федорчук
-- [33: CE](33.md)
+- [33: AC](33.md)
 - [34: NA](34.md)
 - [35: NA](35.md)
 - [36: NA](36.md)
 
-Commit: 1c98a04453854c811514ac00eff228261f064d4d
- fetched at: 20201203-193311
+Commit: def4e38de836652422d57583edd6e7a5c82da6ec
+ fetched at: 20201203-194810
