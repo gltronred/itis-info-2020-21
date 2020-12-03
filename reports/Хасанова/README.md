@@ -1,8 +1,8 @@
 # Хасанова
-- [33: NA](33.md)
+- [33: WA 6](33.md)
 - [34: NA](34.md)
 - [35: NA](35.md)
 - [36: NA](36.md)
 
-Commit: 75267946fc716491fca6c960805d3f86a4e93594
- fetched at: 20201203-151807
+Commit: ead4ab61bf56babf3175d9fc7fd32d1814646390
+ fetched at: 20201203-153308
