@@ -1,6 +1,6 @@
 # Хасанова
-- [35: WA 010](35.md)
+- [35: WA 11](35.md)
 - [36: WA 28](36.md)
 
-Commit: 987e2d10b2c727209d0892b80af7d0f5d42548c4
- fetched at: 20201204-171805
+Commit: bb5e50fb6996b0ddfe2b2d9de3b6482be4283d8b
+ fetched at: 20201204-173309
