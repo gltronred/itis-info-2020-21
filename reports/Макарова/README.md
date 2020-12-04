@@ -1,6 +1,8 @@
 # Макарова
-- [35: NA](35.md)
+- [35: CE](35.md)
 - [36: NA](36.md)
+- [37: NA](37.md)
+- [38: NA](38.md)
 
-Commit: d5114a1d1b3f4f03b3a92dc126716c7dbcc9e8cd
- fetched at: 20201204-203234
+Commit: 39024d22b9261ba89b6b84bc8772e823a434c33d
+ fetched at: 20201204-204733
