@@ -2,7 +2,7 @@
 - [35: WA 18](35.md)
 - [36: AC](36.md)
 - [37: AC](37.md)
-- [38: WA 01](38.md)
+- [38: AC](38.md)
 
-Commit: 376dfd62ce76bdd8770efff05c3040d0de7ef591
- fetched at: 20201205-174734
+Commit: 66d1d39b5359a25cf6517c38fe2a26447061a072
+ fetched at: 20201205-180235
