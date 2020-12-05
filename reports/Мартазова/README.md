@@ -1,8 +1,8 @@
 # Мартазова
 - [35: WA 11](35.md)
 - [36: AC](36.md)
-- [37: NA](37.md)
+- [37: AC](37.md)
 - [38: NA](38.md)
 
-Commit: 2e83f12df4838ebc499dc70ef014fc8e8ca37077
- fetched at: 20201205-144735
+Commit: d310037df6e1a2829ea3a61f88bcb7300b03e98f
+ fetched at: 20201205-150235
