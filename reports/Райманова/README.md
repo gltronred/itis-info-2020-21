@@ -1,8 +1,8 @@
 # Райманова
-- [35: WA 18](35.md)
+- [35: AC](35.md)
 - [36: AC](36.md)
 - [37: NA](37.md)
 - [38: NA](38.md)
 
-Commit: a5fb4ebcb68e5e5832ca70c4d1b3d15bf2ab2844
- fetched at: 20201205-224743
+Commit: 98eed950036a0c9d1f0e1f6f026679e7cbc65d85
+ fetched at: 20201205-230243
