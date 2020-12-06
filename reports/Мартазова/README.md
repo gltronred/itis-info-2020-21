@@ -2,7 +2,7 @@
 - [35: AC](35.md)
 - [36: AC](36.md)
 - [37: AC](37.md)
-- [38: NA](38.md)
+- [38: AC](38.md)
 
-Commit: d045d6769b4af0c9215120a665adc329d507e777
- fetched at: 20201206-161744
+Commit: b38955c784d59047270ee5c9d89daf803fc7c414
+ fetched at: 20201206-163234
