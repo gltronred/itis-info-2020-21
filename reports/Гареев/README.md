@@ -1,8 +1,8 @@
 # Гареев
 - [35: WA 010](35.md)
-- [36: NA](36.md)
+- [36: AC](36.md)
 - [37: NA](37.md)
 - [38: NA](38.md)
 
-Commit: c7a26a51f1d8ca147c122d0254007b64c0040b00
- fetched at: 20201206-121717
+Commit: 4f4e72a65e17b6a04b39cb64ca9d37cde504738b
+ fetched at: 20201206-123218
