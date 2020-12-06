@@ -1,8 +1,8 @@
 # Хусаенов
-- [35: CE](35.md)
+- [35: WA 11](35.md)
 - [36: AC](36.md)
 - [37: NA](37.md)
 - [38: NA](38.md)
 
-Commit: 27a12e523bb09212845849c4e52c5b5b597e6f98
- fetched at: 20201206-154810
+Commit: b121cd69d93103dc21eba030cab6bd4d75d2e83a
+ fetched at: 20201206-160309
