@@ -1,8 +1,8 @@
 # Зайнуллина
 - [35: NA](35.md)
-- [36: NA](36.md)
+- [36: WA 22](36.md)
 - [37: NA](37.md)
 - [38: NA](38.md)
 
-Commit: 468f9a421b4becf0f5b41f0a932966f51dee4e0d
- fetched at: 20201206-190225
+Commit: 491004497f6c31a25fe3a71d2cb533744e2ec57c
+ fetched at: 20201206-191725
