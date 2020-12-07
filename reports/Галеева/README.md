@@ -1,8 +1,8 @@
 # Галеева
-- [35: WA 001](35.md)
+- [35: AC](35.md)
 - [36: NA](36.md)
 - [37: NA](37.md)
 - [38: NA](38.md)
 
-Commit: b9129051bedf79e5686161cfb7327a13a273d171
- fetched at: 20201207-190216
+Commit: 9bf44ff74549edebfcbb4df6abbeb0c713d53095
+ fetched at: 20201207-191717
