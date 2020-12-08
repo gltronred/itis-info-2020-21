@@ -1,9 +1,9 @@
 # Садриев
 - [35: AC](35.md)
-- [36: WA 01](36.md)
+- [36: AC](36.md)
 - [37: NA](37.md)
 - [38: NA](38.md)
 - [39: NA](39.md)
 
-Commit: 99a9b31d73c3ce0c684895c63402739550cf2d78
- fetched at: 20201208-233250
+Commit: ec48fd6a43198f810df64e81410b23d84a9f880e
+ fetched at: 20201208-234748
