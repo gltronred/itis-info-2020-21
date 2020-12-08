@@ -1,9 +1,9 @@
 # Тихомиров
-- [35: NA](35.md)
+- [35: WA 13](35.md)
 - [36: NA](36.md)
 - [37: NA](37.md)
 - [38: NA](38.md)
 - [39: NA](39.md)
 
-Commit: 48a73c3dc74a5d60b1b836eb057c682a14443908
- fetched at: 20201208-210303
+Commit: 581bd6e2b5c3336a1efb0e369ebfaa7d43619008
+ fetched at: 20201208-211754
