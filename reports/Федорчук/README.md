@@ -1,9 +1,9 @@
 # Федорчук
-- [35: NA](35.md)
-- [36: NA](36.md)
+- [35: CE](35.md)
+- [36: WA 23](36.md)
 - [37: NA](37.md)
 - [38: NA](38.md)
 - [39: NA](39.md)
 
-Commit: 7a0fe0b1540e0cc14a86d9f9fb527daa195a9346
- fetched at: 20201208-180307
+Commit: 1c5429935792eeb78bb43527eb19a7e65b1813cf
+ fetched at: 20201208-181801
