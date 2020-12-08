@@ -1,9 +1,7 @@
 # Асфандьяров
-- [35: AC](35.md)
-- [36: AC](36.md)
 - [37: NA](37.md)
 - [38: NA](38.md)
 - [39: NA](39.md)
 
 Commit: 2cf4d3ace3965fabdeea549fb1ffb51e875c2818
- fetched at: 20201208-234709
+ fetched at: 20201209-000209
