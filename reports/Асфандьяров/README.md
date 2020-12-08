@@ -1,8 +1,8 @@
 # Асфандьяров
-- [35: CE](35.md)
+- [35: WA 11](35.md)
 - [36: NA](36.md)
 - [37: NA](37.md)
 - [38: NA](38.md)
 
-Commit: 10ffa4b4306a0b21d8391dbabeb693b9f1dce597
- fetched at: 20201208-131709
+Commit: 66fa9417ac5861c98329dc40b95d867ac408bf35
+ fetched at: 20201208-133209
