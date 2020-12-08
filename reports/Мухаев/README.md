@@ -1,8 +1,8 @@
 # Мухаев
 - [35: AC](35.md)
 - [36: AC](36.md)
-- [37: NA](37.md)
+- [37: AC](37.md)
 - [38: NA](38.md)
 
-Commit: daa58f34873de753eb54fc432411c23d4b9baa71
- fetched at: 20201208-130237
+Commit: e0ec1dbe4a5ea7261ea712762873ac0b1ca77646
+ fetched at: 20201208-131736
