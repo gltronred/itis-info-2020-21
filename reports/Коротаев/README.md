@@ -1,7 +1,7 @@
 # Коротаев
 - [37: AC](37.md)
-- [38: CE](38.md)
+- [38: WA 10](38.md)
 - [39: NA](39.md)
 
-Commit: 99b46441258dfe5aa27a172efee7a65b273e878d
- fetched at: 20201209-184736
+Commit: c8705d3300fdb1281d7934b8531b7b4cd44b19e5
+ fetched at: 20201209-190235
