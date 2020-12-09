@@ -1,7 +1,7 @@
 # Хусаенов
 - [37: AC](37.md)
-- [38: NA](38.md)
+- [38: CE](38.md)
 - [39: NA](39.md)
 
-Commit: 3cd63b87adfd48d0da5a3c35265bcdafecff4d0d
- fetched at: 20201209-200306
+Commit: a2c8372a696ddb507965d688e665848938fc98d9
+ fetched at: 20201209-201832
