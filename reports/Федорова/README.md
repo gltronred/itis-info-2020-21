@@ -1,7 +1,7 @@
 # Федорова
-- [37: WA 08](37.md)
+- [37: AC](37.md)
 - [38: NA](38.md)
 - [39: NA](39.md)
 
-Commit: 9a3dde041cac6b5cf73760f898ba6e8982d9e88d
- fetched at: 20201210-201836
+Commit: 11f209ee5164072e5ab063bb84a4ee4b0ba6ca4a
+ fetched at: 20201210-203335
