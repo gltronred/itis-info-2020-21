@@ -1,7 +1,7 @@
 # Юмадилова
-- [37: WA 02](37.md)
+- [37: WA 01](37.md)
 - [38: AC](38.md)
 - [39: NA](39.md)
 
-Commit: cd9f571d2315a032eb2d90573ec4e5a70287a17b
- fetched at: 20201210-211847
+Commit: aaf74ee2cb04b92ba2f1d09ba117d81f2ba5b698
+ fetched at: 20201210-213341
