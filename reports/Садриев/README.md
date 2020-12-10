@@ -1,7 +1,5 @@
 # Садриев
-- [37: AC](37.md)
-- [38: CE](38.md)
 - [39: NA](39.md)
 
-Commit: 8cb6eba7cd5d0063b2fd5b797fe0b629c3c137ae
- fetched at: 20201210-234749
+Commit: a8c112d18f16b24a7ba14bc0093932f1696365de
+ fetched at: 20201211-000250
