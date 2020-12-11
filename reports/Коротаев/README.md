@@ -1,5 +1,5 @@
 # Коротаев
-- [39: AC](39.md)
+- [39: RE 5](39.md)
 
-Commit: 5027ec1465938314e91870d58e81b29826059507
- fetched at: 20201211-181727
+Commit: fa6fea0a157874253d6ce06a592fdf00f6f0f43d
+ fetched at: 20201211-183228
