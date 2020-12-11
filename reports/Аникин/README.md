@@ -1,5 +1,5 @@
 # Аникин
-- [39: NA](39.md)
+- [39: AC](39.md)
 
-Commit: 22566fc10158871ec3b301a9a3eae0c226564f2c
- fetched at: 20201211-141704
+Commit: 5ac495dbb4c2d1e45ad58e0f62dbd2acc42bf53a
+ fetched at: 20201211-143204
