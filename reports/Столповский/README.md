@@ -1,5 +1,5 @@
 # Столповский
-- [39: WA 02](39.md)
+- [39: AC](39.md)
 
-Commit: 2f724313b487ef485e2b4e166eddc876210847ce
- fetched at: 20201212-004754
+Commit: b8ee00e533aad943000950632dd55c840784b9a9
+ fetched at: 20201212-010253
