@@ -1,5 +1,5 @@
 # Райманова
-- [39: NA](39.md)
+- [39: WA 01](39.md)
 
-Commit: 6a473c06e403eb499face4cb29a28ddb8e4b3e62
- fetched at: 20201212-133244
+Commit: 702ced43c0b84eef9651d72e84adb768717160a5
+ fetched at: 20201212-134746
