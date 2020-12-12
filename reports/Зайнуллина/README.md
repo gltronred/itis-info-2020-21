@@ -1,6 +1,6 @@
 # Зайнуллина
 - [39: NA](39.md)
-- [40: NA](40.md)
+- [40: CE](40.md)
 
-Commit: 4473376a106bc8823adf6b4475953fbd2283a3da
- fetched at: 20201212-154723
+Commit: 952af49e86c8b5241fed3db4eb5535ec1adc77fa
+ fetched at: 20201212-160225

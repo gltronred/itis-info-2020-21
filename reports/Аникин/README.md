@@ -1,6 +1,6 @@
 # Аникин
 - [39: AC](39.md)
-- [40: NA](40.md)
+- [40: CE](40.md)
 
-Commit: 5ac495dbb4c2d1e45ad58e0f62dbd2acc42bf53a
- fetched at: 20201212-154703
+Commit: eefed6822b92869ce743b29119777c6e8daf0f60
+ fetched at: 20201212-160204

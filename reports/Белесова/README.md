@@ -1,6 +1,6 @@
 # Белесова
 - [39: NA](39.md)
-- [40: NA](40.md)
+- [40: CE](40.md)
 
-Commit: 95b08ec5a9eab7d97686f89a650491d60e92772c
- fetched at: 20201212-154712
+Commit: c3595b0a651f25091d6fe071951e8657470be2fd
+ fetched at: 20201212-160213

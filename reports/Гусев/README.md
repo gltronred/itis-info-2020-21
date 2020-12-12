@@ -1,6 +1,6 @@
 # Гусев
 - [39: AC](39.md)
-- [40: NA](40.md)
+- [40: CE](40.md)
 
-Commit: cf70879d7592a855b6645362864c206b3d3168a9
- fetched at: 20201212-154720
+Commit: 74453e97cbd1ac2e5813097a71a7d70b009fcbec
+ fetched at: 20201212-160222
