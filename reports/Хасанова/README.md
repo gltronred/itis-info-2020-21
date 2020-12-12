@@ -1,6 +1,6 @@
 # Хасанова
 - [39: NA](39.md)
-- [40: NA](40.md)
+- [40: CE](40.md)
 
-Commit: ee941cf5d9681c574521fed5281ae09725ba9f59
- fetched at: 20201212-160306
+Commit: 60939f201285994cbe281c794ed9db1b5c0cbf08
+ fetched at: 20201212-161809

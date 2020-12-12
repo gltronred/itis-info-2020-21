@@ -1,6 +1,6 @@
 # Юсупов
 - [39: NA](39.md)
-- [40: NA](40.md)
+- [40: CE](40.md)
 
-Commit: ec5445cfc5c385719ca9ae814acee6400c2cadaf
- fetched at: 20201212-160317
+Commit: c2795d6a66d8b3e24043be5ea8f1c629ca25c82f
+ fetched at: 20201212-161821

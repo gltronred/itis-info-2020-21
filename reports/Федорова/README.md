@@ -1,6 +1,6 @@
 # Федорова
 - [39: NA](39.md)
-- [40: NA](40.md)
+- [40: CE](40.md)
 
-Commit: aa8f175f1ad8db1267a2852cdc73b8963d269ff9
- fetched at: 20201212-160301
+Commit: 3746880ed976c47969aaed0911f375734c5cd497
+ fetched at: 20201212-161803

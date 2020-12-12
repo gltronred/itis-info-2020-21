@@ -1,6 +1,6 @@
 # Хусаенов
 - [39: NA](39.md)
-- [40: NA](40.md)
+- [40: CE](40.md)
 
-Commit: 6ccdb27555646820193a98750a65358c774764d6
- fetched at: 20201212-160309
+Commit: 8e4964cada6be7f630ccafe0a70061e8e534b7c0
+ fetched at: 20201212-161812

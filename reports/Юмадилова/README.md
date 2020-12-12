@@ -1,6 +1,6 @@
 # Юмадилова
 - [39: NA](39.md)
-- [40: NA](40.md)
+- [40: CE](40.md)
 
-Commit: 449afb3696a9c51ba5957c5034d3d2dc79f18553
- fetched at: 20201212-160315
+Commit: 09d8081901cd65ad2b2de957718dbc54a328057b
+ fetched at: 20201212-161818
