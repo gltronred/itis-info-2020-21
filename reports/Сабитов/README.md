@@ -1,6 +1,6 @@
 # Сабитов
-- [39: NA](39.md)
+- [39: AC](39.md)
 - [40: CE](40.md)
 
-Commit: 114c0d9029018f5cdf82c3f3fca208ebcf5ec453
- fetched at: 20201213-133247
+Commit: 1e3cf8146010cc08472a7328e9bef5216e58c9b7
+ fetched at: 20201213-134748
