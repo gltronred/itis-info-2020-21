@@ -1,6 +1,6 @@
 # Федорчук
-- [39: NA](39.md)
+- [39: RE 01](39.md)
 - [40: CE](40.md)
 
-Commit: 53ae5d29e9ff81fe9502a2509c3b1221145ed601
- fetched at: 20201213-210259
+Commit: beff420a9c93c4c8bd4dfd1dc35d4d4c84d7a80e
+ fetched at: 20201213-211801
