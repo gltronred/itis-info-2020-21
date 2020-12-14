@@ -1,6 +1,6 @@
 # Столповский
 - [39: AC](39.md)
-- [40: WA 01](40.md)
+- [40: WA 10](40.md)
 
-Commit: a106051beeb13ec03f1e34747bbd670fabe9a34f
- fetched at: 20201214-214754
+Commit: 1182c9f6107918d7c91651f54aeccb6fa89ce03a
+ fetched at: 20201214-220253
