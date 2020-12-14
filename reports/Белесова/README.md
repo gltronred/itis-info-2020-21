@@ -2,5 +2,5 @@
 - [39: WA 5](39.md)
 - [40: CE](40.md)
 
-Commit: 8a2a0a1b2ec22ae7ffd898e2b29c373b23e02f90
- fetched at: 20201214-201717
+Commit: 666bed8b1254fd8e8aa9011f9fb2e92536962bff
+ fetched at: 20201214-203214
