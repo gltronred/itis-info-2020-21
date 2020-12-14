@@ -1,6 +1,6 @@
 # Коротаев
 - [39: AC](39.md)
-- [40: CE](40.md)
+- [40: WA 01](40.md)
 
-Commit: bea0de1852db116ea7205c9dacbbe22a27eecc01
- fetched at: 20201214-171728
+Commit: 21d227dfc562916ce062dbe01aef63b5399574b0
+ fetched at: 20201214-173229
