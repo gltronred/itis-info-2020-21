@@ -2,5 +2,5 @@
 - [39: CE](39.md)
 - [40: CE](40.md)
 
-Commit: 23ad14849a8a4889c8cb8f268a4631a7260659a2
- fetched at: 20201215-231759
+Commit: 8c6bb4b6590b71517cb8f9e38c51cc266eee9b1d
+ fetched at: 20201215-233258
