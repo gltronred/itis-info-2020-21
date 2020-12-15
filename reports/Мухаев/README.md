@@ -1,6 +1,6 @@
 # Мухаев
 - [39: AC](39.md)
-- [40: CE](40.md)
+- [40: WA 10](40.md)
 
-Commit: 2038dfba133f3d457bcef70e2d4f2a3029262b27
- fetched at: 20201215-214739
+Commit: ccdaa81ab3cd322b4cbc42f7b45e232a0e3aa15f
+ fetched at: 20201215-220238
