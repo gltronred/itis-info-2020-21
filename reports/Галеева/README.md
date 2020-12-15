@@ -1,6 +1,6 @@
 # Галеева
-- [39: NA](39.md)
+- [39: AC](39.md)
 - [40: CE](40.md)
 
-Commit: 79ae05127fc392d02e9f9f23125193bedd1f5ddf
- fetched at: 20201215-191722
+Commit: 4435fa87673ca22b3bb351bae741077497109d25
+ fetched at: 20201215-193222
