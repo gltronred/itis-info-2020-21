@@ -1,6 +1,6 @@
 # Асадуллин
-- [39: NA](39.md)
+- [39: AC](39.md)
 - [40: CE](40.md)
 
-Commit: 5e156b8f2d4b4746c17f4b4700c37ace09f2c34e
- fetched at: 20201215-230207
+Commit: 75d6402da01b4c02fc3b926485e95c0dad8b04b7
+ fetched at: 20201215-231707
