@@ -1,6 +1,6 @@
 # Гареев
-- [39: NA](39.md)
+- [39: AC](39.md)
 - [40: CE](40.md)
 
-Commit: d86a3df957d7e44b04f8c25d3f568679de10679b
- fetched at: 20201215-164725
+Commit: c948e85c718dd9f67a9a28fbf3c50235a709c7bc
+ fetched at: 20201215-170232
