@@ -2,5 +2,5 @@
 - [39: AC](39.md)
 - [40: WA 10](40.md)
 
-Commit: 12c16df06364c9757f6dd3af5ff6ee90c81aefd9
- fetched at: 20201215-223244
+Commit: 1aa8c480bcac85671e45920d754f6da15e3b49d9
+ fetched at: 20201215-224740
