@@ -1,6 +1,6 @@
 # Юлдашев
-- [39: NA](39.md)
+- [39: CE](39.md)
 - [40: WA 01](40.md)
 
-Commit: 77ee78a4c4be8ba9905704da80746e1037e20bf4
- fetched at: 20201215-200320
+Commit: 73809565a7fb011a6b56bdc51097026fb9a82dca
+ fetched at: 20201215-201820
