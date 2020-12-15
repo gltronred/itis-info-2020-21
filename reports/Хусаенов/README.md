@@ -1,6 +1,6 @@
 # Хусаенов
-- [39: RE 01](39.md)
+- [39: WA 5](39.md)
 - [40: CE](40.md)
 
-Commit: ee3776c7befa281ab54dcbc0c6f33f7287b4fdeb
- fetched at: 20201215-180308
+Commit: 2e96c44fc4c88e9abd712629ed3626a8bc772353
+ fetched at: 20201215-181808
