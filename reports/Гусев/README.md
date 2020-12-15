@@ -1,5 +1,5 @@
 # Гусев
-- [40: CE](40.md)
+- [40: AC](40.md)
 
-Commit: 13c3133435b1c05544c9f6115a3cefdb1b887e26
- fetched at: 20201216-001720
+Commit: 1ca06c13d7995aabadfd7dcd9144b0f0640e6e16
+ fetched at: 20201216-003221

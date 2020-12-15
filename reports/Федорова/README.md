@@ -1,5 +1,5 @@
 # Федорова
 - [40: CE](40.md)
 
-Commit: 9f2b8306c24a4e92996861323046bc83b9e3dac0
- fetched at: 20201216-001757
+Commit: ca78fb34e1deb5ce0f77a9850928c421fe4ffa05
+ fetched at: 20201216-003258
