@@ -1,6 +1,6 @@
 # Асфандьяров
-- [39: WA 5](39.md)
+- [39: WA 01](39.md)
 - [40: CE](40.md)
 
-Commit: 489d1ed44dc3a76ee564a3b3e2a8b36271ded0b7
- fetched at: 20201215-193212
+Commit: 87be30eb76e26b6159e0f4afd39b41c9209e934d
+ fetched at: 20201215-194713
