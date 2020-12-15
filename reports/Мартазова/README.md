@@ -1,6 +1,6 @@
 # Мартазова
 - [39: AC](39.md)
-- [40: RE 01](40.md)
+- [40: WA 01](40.md)
 
-Commit: db97fc1d86dd61c00fab8f766304b5daa42bff74
- fetched at: 20201215-120233
+Commit: 723d94606ce210de835bda4f98ccc97a9154c2db
+ fetched at: 20201215-121734
