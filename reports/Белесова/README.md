@@ -1,5 +1,5 @@
 # Белесова
-- [40: WA 10](40.md)
+- [40: WA 9](40.md)
 
-Commit: b966018337915a0c94025c090ea6e543665264b1
- fetched at: 20201216-233212
+Commit: baa826ab13c4e9d0c755a13df5ec990053ca19ba
+ fetched at: 20201216-234713
