@@ -1,5 +1,5 @@
 # Нурисламова
-- [40: RE 01](40.md)
+- [40: WA 01](40.md)
 
-Commit: d19d01d8a2916b1ba98107d23d5395f4bad12f9c
- fetched at: 20201216-211746
+Commit: 8d9cb75fd7f5af5dbc0c57f044edeed0c666d527
+ fetched at: 20201216-213247
