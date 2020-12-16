@@ -1,5 +1,5 @@
 # Лисицына
 - [40: CE](40.md)
 
-Commit: fb9e442591da4642a4f73a10cb4781d38a7950c4
- fetched at: 20201216-213234
+Commit: 202921658eb9d2bffadfddfb5809551cdf1f1e6e
+ fetched at: 20201216-214732
