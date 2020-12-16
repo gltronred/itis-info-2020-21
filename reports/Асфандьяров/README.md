@@ -1,5 +1,5 @@
 # Асфандьяров
 - [40: CE](40.md)
 
-Commit: 78069a1546ae72a3fb1164aac9e4c6ee93dc3582
- fetched at: 20201216-184711
+Commit: 56002937a8a3d445a0f22ee7eb67724749aaecec
+ fetched at: 20201216-190214
