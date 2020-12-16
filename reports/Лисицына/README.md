@@ -1,5 +1,5 @@
 # Лисицына
-- [40: WA 01](40.md)
+- [40: AC](40.md)
 
-Commit: 2408e61a276084fa2f2f778cbf75d1b880a5cb37
- fetched at: 20201216-234729
+Commit: 0da83113c432142f269ae01f42f7e52d0a8593e9
+ fetched at: 20201217-000229
