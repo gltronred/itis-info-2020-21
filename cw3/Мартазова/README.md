@@ -1,7 +1,7 @@
 # Мартазова
-- [1: CE](1.md)
-- [2: CE](2.md)
-- [3: CE](3.md)
+- [1: WA 01 (2/3)](1.md)
+- [2: WA 02 (2/3)](2.md)
+- [3: WA 01 (0/2)](3.md)
 
-Commit: 7fa828ec1f2b918b7a090865d535ea8e85ad2735
- fetched at: 20201217-122435
+Commit: e369a7d93d5c5a24a6be60aadfa6b276073b79c1
+ fetched at: 20201217-122837
