@@ -1,7 +1,7 @@
 # Белесова
-- [1: WA 01 (2/3)](1.md)
+- [1: WA 4 (6/8)](1.md)
 - [2: AC](2.md)
-- [3: WA 01 (0/2)](3.md)
+- [3: WA 01 (0/33)](3.md)
 
-Commit: 087356db1d90afa804f5af301bd8fda610a783df
- fetched at: 20201217-125505
+Commit: dee84b5f5ec7a161d8adb11c339177792bd802f9
+ fetched at: 20201217-125805
