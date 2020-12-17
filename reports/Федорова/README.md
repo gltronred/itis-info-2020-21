@@ -1,5 +1,5 @@
 # Федорова
-- [40: WA 01](40.md)
+- [40: WA 10](40.md)
 
-Commit: f5e2cb95cdf6511d06fb6190930c26f320c5ad0f
- fetched at: 20201217-201800
+Commit: 2bfedd1408017782c65572116b63966a6c46d5e3
+ fetched at: 20201217-203301
