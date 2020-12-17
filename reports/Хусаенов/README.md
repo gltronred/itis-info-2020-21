@@ -1,5 +1,5 @@
 # Хусаенов
-- [40: CE](40.md)
+- [40: WA 10](40.md)
 
-Commit: ac054df50cb7990f78ca3121dfe0da85284eb4f5
- fetched at: 20201217-184816
+Commit: 01867d03ce4852f0ad56addd7fffcdd1de33b33a
+ fetched at: 20201217-190340
