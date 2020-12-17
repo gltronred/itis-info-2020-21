@@ -1,5 +1,5 @@
 # Столповский
 - [40: AC](40.md)
 
-Commit: de2907780cc70f6e970cd8f8b8f0257d8ed6422d
- fetched at: 20201217-194816
+Commit: 4ebd070b090559cea41d8d1e561771d2912126a5
+ fetched at: 20201217-200256
