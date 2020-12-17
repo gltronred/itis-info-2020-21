@@ -1,7 +1,7 @@
 # Гареев
 - [1: WA 02 (1/3)](1.md)
-- [2: WA 01 (1/3)](2.md)
+- [2: AC](2.md)
 - [3: WA 01 (0/2)](3.md)
 
-Commit: 7925984cf6232579b34ebccb6ce7a42d5353ae5b
- fetched at: 20201217-125104
+Commit: bebd901cbc9e7438aece69405a5a3699e7c1bb25
+ fetched at: 20201217-125205
