@@ -1,4 +1,7 @@
 # Гусев
+- [1: CE](1.md)
+- [2: CE](2.md)
+- [3: CE](3.md)
 
-Commit: 425c8e6b6746c52977077ec1a0ef83a2748a59cd
- fetched at: 20201217-121632
+Commit: 354d95f1d6f5bcf77f3812608a6867afb9ecdcb9
+ fetched at: 20201217-122421

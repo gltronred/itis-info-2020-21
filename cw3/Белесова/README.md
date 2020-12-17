@@ -1,4 +1,7 @@
 # Белесова
+- [1: CE](1.md)
+- [2: CE](2.md)
+- [3: CE](3.md)
 
-Commit: dbc0015fc4a292abe4fb26b8719be68087e8e9d5
- fetched at: 20201217-121623
+Commit: 087356db1d90afa804f5af301bd8fda610a783df
+ fetched at: 20201217-122412

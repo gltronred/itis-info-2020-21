@@ -1,4 +1,7 @@
 # Асфандьяров
+- [1: CE](1.md)
+- [2: CE](2.md)
+- [3: CE](3.md)
 
-Commit: 568c5377639e0c6201bf344ddcc37b01527b68ba
- fetched at: 20201217-121620
+Commit: e7e186e05602e439cba115529458de52a0b6a616
+ fetched at: 20201217-122410
