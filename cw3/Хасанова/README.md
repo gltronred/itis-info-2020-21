@@ -1,7 +1,7 @@
 # Хасанова
 - [1: AC](1.md)
-- [2: WA 01 (1/3)](2.md)
+- [2: AC](2.md)
 - [3: WA 01 (0/2)](3.md)
 
-Commit: 330c70ff1ead9aec7e85165c283863a652602f79
- fetched at: 20201217-124206
+Commit: 307a7ec16637ec8d873d4a71f21bb211da2c21c4
+ fetched at: 20201217-124509

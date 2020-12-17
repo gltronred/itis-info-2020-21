@@ -1,7 +1,7 @@
 # Галеева
-- [1: WA 01 (2/3)](1.md)
+- [1: CE](1.md)
 - [2: CE](2.md)
 - [3: WA 01 (0/2)](3.md)
 
-Commit: c01ac4c3010d6a9be8003813472d54b82663680e
- fetched at: 20201217-124115
+Commit: b9098e4580d9d8090550fc64e08c9ccbb4cbdf67
+ fetched at: 20201217-124416
