@@ -1,5 +1,5 @@
 # Коротаев
-- [40: WA 13](40.md)
+- [40: AC](40.md)
 
-Commit: 8a17f8f772dd8652743627c7ed26594836cec7a5
- fetched at: 20201217-230228
+Commit: 9b7fbc6a5fc1d8f6c0598d0d4e57033bc3c4f3d0
+ fetched at: 20201217-231728
