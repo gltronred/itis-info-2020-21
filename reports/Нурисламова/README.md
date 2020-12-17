@@ -1,5 +1,5 @@
 # Нурисламова
 - [40: WA 10](40.md)
 
-Commit: 8c5e0419e94bae56c6d0691d60e69dfddcf1f6b7
- fetched at: 20201217-200242
+Commit: 80f3af2ca21963f5de2459a39a363825a3c35e90
+ fetched at: 20201217-201741
