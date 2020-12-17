@@ -1,7 +1,7 @@
 # Садриев
-- [1: WA 01 (3/8)](1.md)
+- [1: AC](1.md)
 - [2: WA 01 (4/7)](2.md)
 - [3: WA 01 (0/33)](3.md)
 
-Commit: 2dd9c48b9ca24b584eb99e71cb20f7e1cd4d176f
- fetched at: 20201217-125808
+Commit: ef946c5ef093952e489504a4ccdfb3460f30ed19
+ fetched at: 20201217-130409
