@@ -1,5 +1,5 @@
 # Юлдашев
-- [40: WA 01](40.md)
+- [40: WA 6](40.md)
 
-Commit: f3c0d11b9589460b22b870cac3722ba499b09dba
- fetched at: 20201217-104809
+Commit: cdfc405bf7765be43a2651b692ef076f1a7c90b7
+ fetched at: 20201217-110317
