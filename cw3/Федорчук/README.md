@@ -1,7 +1,7 @@
 # Федорчук
-- [1: WA 01 (3/8)](1.md)
-- [2: WA 01 (1/7)](2.md)
+- [1: WA 6 (6/8)](1.md)
+- [2: WA 7 (6/7)](2.md)
 - [3: WA 01 (0/33)](3.md)
 
-Commit: 8518437dd882e61b53efbedc197f07b68ada1c5a
- fetched at: 20201217-131612
+Commit: 1bd091521e319a3fcbf3c5e83b35dd6e0c3dc69f
+ fetched at: 20201217-133129
