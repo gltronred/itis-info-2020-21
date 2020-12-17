@@ -1,5 +1,4 @@
 # Тихомиров
-- [40: CE](40.md)
 
-Commit: cc97965f318087e7e8ed664ec00c43356fd804ca
- fetched at: 20201217-234759
+Commit: 4cac4e2c617b5c08dde8381767021819bf34572e
+ fetched at: 20201218-000306

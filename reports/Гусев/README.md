@@ -1,5 +1,4 @@
 # Гусев
-- [40: AC](40.md)
 
 Commit: ca99f44fa60425d62227fbfef9d5161538726a05
- fetched at: 20201217-234721
+ fetched at: 20201218-000223
