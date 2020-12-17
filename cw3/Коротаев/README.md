@@ -1,7 +1,7 @@
 # Коротаев
-- [1: WA 01 (2/3)](1.md)
+- [1: WA 01 (1/3)](1.md)
 - [2: AC](2.md)
 - [3: WA 01 (0/2)](3.md)
 
-Commit: 0259cc1586099bce9c2f6cd7c93023e2004c5859
- fetched at: 20201217-122827
+Commit: 16154dc2ce7879f02a1d6574821bd5eedf3e39ab
+ fetched at: 20201217-124127
