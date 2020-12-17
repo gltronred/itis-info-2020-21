@@ -1,5 +1,5 @@
 # Юмадилова
-- [40: WA 13](40.md)
+- [40: AC](40.md)
 
-Commit: 78b82a38479ef8fa05db556b9d4ca879f89af8e4
- fetched at: 20201217-233316
+Commit: 252208212a3d96f1ff424a96c40cbf8116ca6f2e
+ fetched at: 20201217-234819

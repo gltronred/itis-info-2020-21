@@ -1,5 +1,5 @@
 # Федорчук
-- [40: WA 13](40.md)
+- [40: AC](40.md)
 
-Commit: fc54e1a72400cbc638a38543c62b75fbfbefda64
- fetched at: 20201217-233304
+Commit: 5325231094eb105ef5505b8e12966d60eff5ab47
+ fetched at: 20201217-234806

@@ -1,5 +1,5 @@
 # Хасанова
-- [40: WA 10](40.md)
+- [40: WA 13](40.md)
 
-Commit: 2412a083b66c21022d934694dee76dddd72dc486
- fetched at: 20201217-233307
+Commit: aea04708c98a6585e3fbda29b6b245e2a3e1b9ef
+ fetched at: 20201217-234809
