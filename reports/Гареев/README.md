@@ -1,5 +1,5 @@
 # Гареев
 - [40: WA 01](40.md)
 
-Commit: 383d6a7d23e0d8920fd73cb60752f6f9a9627968
- fetched at: 20201217-190225
+Commit: 0b09e66a543a836cf93c0a5357e0df568067b4de
+ fetched at: 20201217-191729
