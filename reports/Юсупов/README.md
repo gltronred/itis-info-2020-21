@@ -1,5 +1,5 @@
 # Юсупов
 - [40: AC](40.md)
 
-Commit: ce6c1c2fa65377923a5ae6e4e6ab6f6f430acefc
- fetched at: 20201217-114818
+Commit: 90d99a425b8ab423acb1696ddf3c5ff433d97983
+ fetched at: 20201217-120323

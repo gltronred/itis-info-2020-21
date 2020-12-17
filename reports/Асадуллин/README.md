@@ -1,5 +1,5 @@
 # Асадуллин
 - [40: CE](40.md)
 
-Commit: 2ffe3a3e4f687262bbb814ec550d591a3e7cb717
- fetched at: 20201217-114707
+Commit: 6b2468dd9a82560f0653d103526f563bfa3b38aa
+ fetched at: 20201217-120207

@@ -1,5 +1,5 @@
 # Гареев
 - [40: CE](40.md)
 
-Commit: f6471a6c39ead45c7b5744d7a5d7e728f653d58d
- fetched at: 20201217-114718
+Commit: 7b4427d405d84ff10f8625752950e594d6c320a7
+ fetched at: 20201217-120220
