@@ -1,5 +1,5 @@
 # Коротаев
 - [40: AC](40.md)
 
-Commit: 62916a6f79705bd67b6d3e14136b664aee6d379d
- fetched at: 20201217-120229
+Commit: 5f49087670a1e61ace5ec4691764826e36cdc657
+ fetched at: 20201217-133229

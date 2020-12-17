@@ -1,5 +1,5 @@
 # Райманова
 - [40: AC](40.md)
 
-Commit: 3e7cb061c559c354a51bea0ffd725a82a2a4f371
- fetched at: 20201217-120250
+Commit: d2258b18165f7ba4e5346ca7d20438aec1a9dba7
+ fetched at: 20201217-133250

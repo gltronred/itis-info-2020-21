@@ -1,5 +1,5 @@
 # Белесова
 - [40: AC](40.md)
 
-Commit: dbc0015fc4a292abe4fb26b8719be68087e8e9d5
- fetched at: 20201217-120213
+Commit: 8ef0aaed4747016515809fcbfd9aa496dd0b19b1
+ fetched at: 20201217-133213

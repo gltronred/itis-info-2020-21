@@ -1,5 +1,5 @@
 # Сабитов
 - [40: CE](40.md)
 
-Commit: c7a3ab46147306dda27ba9dc79c2b631b22dc8b4
- fetched at: 20201217-120253
+Commit: 6b2e9c1eb7ac4890823e9c278aac819d6c5a09c6
+ fetched at: 20201217-133253
