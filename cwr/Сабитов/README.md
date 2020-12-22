@@ -1,7 +1,7 @@
 # Сабитов
 - [1: AC](1.md)
-- [2: WA 01 (0/2)](2.md)
+- [2: CE](2.md)
 - [3: WA 01 (0/2)](3.md)
 
-Commit: e224b9cc235860975cf4ac173d765c13b2ee2489
- fetched at: 20201222-145105
+Commit: d824fa0a7482f72f85aaa781d5a68ba36956c5ba
+ fetched at: 20201222-145205
