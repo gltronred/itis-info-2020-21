@@ -1,7 +1,7 @@
 # Райманова
 - [1: AC](1.md)
-- [2: WA 01 (0/2)](2.md)
+- [2: AC](2.md)
 - [3: WA 01 (0/2)](3.md)
 
-Commit: 22f174355f870ee2cd5388453bf5b2969baa30a3
- fetched at: 20201222-145405
+Commit: a224aa3743eef1d7bcf4e3480796d0cc597a1d20
+ fetched at: 20201222-145505
