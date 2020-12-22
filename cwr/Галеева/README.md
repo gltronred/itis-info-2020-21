@@ -1,7 +1,7 @@
 # Галеева
 - [1: AC](1.md)
 - [2: AC](2.md)
-- [3: CE](3.md)
+- [3: RE 01 (0/2)](3.md)
 
-Commit: 8e1f2c8abac312283eefbbdb72bdfad50a54fce1
- fetched at: 20201222-151404
+Commit: adb09e7e8eabae0851258d39a56e294d94901302
+ fetched at: 20201222-151505
