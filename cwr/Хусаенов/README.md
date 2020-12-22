@@ -3,5 +3,5 @@
 - [2: AC](2.md)
 - [3: WA 01 (0/3)](3.md)
 
-Commit: dbc1242d4bcdd296c5325cb51a6c366dbc69e2d0
- fetched at: 20201222-151607
+Commit: bb2dc9d4b7e4e8ef55a99005d3219bd28a55a01c
+ fetched at: 20201222-151708

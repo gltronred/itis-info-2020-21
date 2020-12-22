@@ -1,7 +1,7 @@
 # Федорова
-- [1: WA 01 (0/2)](1.md)
+- [1: AC](1.md)
 - [2: AC](2.md)
 - [3: WA 01 (0/3)](3.md)
 
-Commit: fe4ecf36ad98e92166e81935c9a9978bbaa85be7
- fetched at: 20201222-151607
+Commit: 0b0b599419adb5a0e1338ce2e5c3ed75405ae1f0
+ fetched at: 20201222-151707
