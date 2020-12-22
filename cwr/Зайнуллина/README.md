@@ -1,7 +1,7 @@
 # Зайнуллина
-- [1: ](1.md)
-- [2: ](2.md)
-- [3: ](3.md)
+- [1: CE](1.md)
+- [2: CE](2.md)
+- [3: CE](3.md)
 
 Commit: c7e1f3bd5a7c9b6ea9291299becce7f50cf7201f
- fetched at: 20201222-144204
+ fetched at: 20201222-144304
